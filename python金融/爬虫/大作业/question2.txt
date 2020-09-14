@@ -1,0 +1,2212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162965454-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-162965454-1');
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<script src="https://www.recaptcha.net/recaptcha/api.js?render=6LcXY-gUAAAAAOn15cRtgUtGKVdf44bdOk9MKTwj"></script>
+<script>
+        grecaptcha.ready(function() {
+            grecaptcha.execute('6LcXY-gUAAAAAOn15cRtgUtGKVdf44bdOk9MKTwj', {action: 'news'}).then(function(token) {
+                $.ajax({
+                    type: "POST",
+                    url:"/check",
+                    data: {"token":token,"query":"浪莎股份"},
+                });
+            });
+        });
+</script>
+<link rel="shortcut icon" href="http://search.sina.com.cn/favicon.ico">
+<link rel="apple-touch-icon" href="http://i2.sinaimg.cn/dy/deco/2010/0709/icon.png" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>新闻搜索_新浪搜索_新浪网</title>
+<meta name="keywords" content="新闻搜索,新浪搜索,新浪网" />
+<meta name="description" content="新浪新闻搜索" />
+<meta name="viewport" content="initial-scale = 1.0,maximum-scale=1.0" />
+
+<style type="text/css">
+
+ 
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, table, td, img { margin: 0; padding: 0; }
+input, select, textarea { margin:0; }
+fieldset, img { border:none; }
+address, caption, cite, code, dfn, em, th, var { font-style: normal; font-weight: normal; }
+ul, ol { list-style-type:none; }
+select, input { vertical-align:middle; }
+select, input, textarea { font-size:12px; }
+body { background:#fff; color:#000; font:13px/20px "arial"; }
+.clearfix:after { content:"."; display:block; height:0; visibility:hidden; clear:both; }
+.clearfix { zoom:1; }
+.clearit { clear:both; height:0px; overflow:hidden; }
+.lh20 { line-height:20px; }
+.pl20{padding-left:20px;}
+.lh23 { line-height:23px; }
+.sp10 { height:10px; overflow:hidden; }
+.f12 { font-size:12px; }
+.f14 { font-size:14px; }
+.fB { font-weight:bold; }
+.fwhite, a.fwhite { color:#fff; }
+.fblack { color:#000; }
+.fred { color:#c00; }
+.fgreen { color:#009900; font-size:12px; }
+.fgray_time { color:#666; font-size:12px; }
+a.fnoL { text-decoration:none; }
+a.fnoL:hover { text-decoration:underline; }
+.fB { font-weight:bold; }
+.fgray { color:#999; }
+.space { height:10px; background:#fff; overflow:hidden; clear:both; }
+.fblue { color:#000099; }
+.wbret-wrap { margin-top:15px; margin-bottom:19px;   display:block; padding:10px 15px;  border-bottom:1px dashed #c3d0ed; }
+a.wbret-wrap, a.wbret-wrap:link, a.wbret-wrap:visited, a.wbret-wrap:active, a.wbret-wrap:hover, a.wbret-wrap:focus { text-decoration:none; }
+.wbret-wrap { margin-top:10px; } 
+.wbret-tt { display:block; padding:0 0 0 20px; background:url(images/swb_01.png) 0 0 no-repeat; }
+.wbret-tt span { text-decoration:none; font-size:14px; }
+.wbret-p1 { display:block; padding:10px 0 5px 0; border-bottom:1px dotted #ccc; font-size:12px; color:#333; }
+.wbret-date1 { display:block; color:#999; }
+.wbret-p2 { word-wrap:break-word;display:block; padding:5px 0 5px 0; font-size:12px; color:#333; }
+.wbret-link1 { padding:0; color:#000099; }
+a.wbret-link1:link, a.wbret-link1:visited { color:#00099; text-decoration:none; }
+a.wbret-link1:active, a.wbret-link1:hover, a.wbret-link1:focus { text-decoration:underline; }
+.wbret-p3 { display:block; padding:0; font-size:12px; }
+.wblink { color:#26A2DA; }
+a { color:#000099; text-decoration:none; }
+a:hover { color: #ff0000; text-decoration:underline; }
+.tac { text-align:center; }
+.tar { text-align:right; }
+.pad10 { padding:10px; }
+.wrap { width:1000px; }
+ 
+a.fred { color:#c00; }
+.layer-frame { border:0; position:absolute; filter: alpha(opacity=0); }
+.l { float:left; }
+.r { float:right; }
+.r a { margin:5px; }
+.r a.style_a { margin-left:0px; }
+ 
+.r a { color:#000000; }
+.product_l .r .style_box { border-right:dotted 1px #ccc; margin-right:5px; padding-right:10px }
+.product_l .r a:link, .r a:visited { color:#000 }
+.product_l .r a:hover { color:#000; text-decoration:underline; }
+.zcblk01 .titChange1 { width:550px; }
+ 
+
+ 
+.topWrap{ background-color:#f6f6f6; border-bottom:solid 1px #ececec; min-width:1000px; margin-bottom:8px;}
+.navType{ float:left; font-size:14px;padding:18px 0 0 9px}
+ 
+.r .style_cion { margin-left:0 }
+.top {position:relative; line-height:26px; padding:8px 10px 0 5px;} 
+.top .l a { float:left; display:inline; margin:2px 3px 0; padding:0 5px; outline:0 }
+.top .l a:link { text-decoration:none; color:#009; } 
+.top .l a:visited { color:#009; } 
+.top .l a:hover { color:#e42f36;} 
+.top .l a.selected { color:#e42f36; font-weight:bold;  } 
+.top a:hover, .top a:active, .top a:focus { text-decoration:none; }
+.top .r{ line-height:34px;} 
+.top2 { position: relative; z-index:100; height:80px; width:950px; }
+.top h1 { padding:0 0 0 19px; } 
+.search-form { padding:6px 0 0 31px; zoom:1; } 
+.search-form a:hover, .search-form a:focus { text-decoration:none; }
+.ipt-02 { border:1px solid #898989; padding:3px 5px; line-height:24px; height:24px; font-size:14px; width:608px; margin:0 10px 0 0; } 
+input.ipt-03 { background: url(images/search_btn_yan.png) 0 0 no-repeat; width:90px; height:30px; border:none; color:#fff; margin:0 3px 0 0; cursor:pointer; outline:none 0 }
+input.ipt-03_zt { background: url(images/zt_search_btn_yan.png) 0 0 no-repeat; width:90px; height:30px; border:none; color:#fff; margin:0 3px 0 0; cursor:pointer; outline:none 0 }
+input.ipt-03_video { background: url(images/search_btn_video.jpg) 0 0 no-repeat; width:90px; height:30px; border:none; color:#fff; margin:0 3px 0 0; cursor:pointer; outline:none 0 }
+input.ipt-03_img { background: url(images/img_search_btn_yan.png) 0 0 no-repeat; width:90px; height:30px; border:none; color:#fff; margin:0 3px 0 0; cursor:pointer; outline:none 0 }
+input.ipt-03_blog { background: url(images/blog_search_btn_yan.png) 0 0 no-repeat; width:90px; height:30px; border:none; color:#fff; margin:0 3px 0 0; cursor:pointer; outline:none 0 }
+input.ipt-03_product { background: url(images/product_search_btn_yan.png) 0 0 no-repeat; width:90px; height:30px; border:none; color:#fff; margin:0 3px 0 0; cursor:pointer; outline:none 0 }
+input.ipt-03 { margin-left:7px;}
+form input.ipt-03:hover, input.ipt-03.hover { background-position:0 -50px; }
+input.ipt-03:focus, input.ipt-03:active { outline:none 0; border:none }
+input.ipt-03::-moz-focus-inner {
+border: 0;
+}
+ 
+input.ipt-03b { background:url(images/search_btn_yan.png) 0 0 no-repeat; width: 90px; margin-left:0;}
+input.ipt-03b:hover, input.hoverb { background:url(images/search_btn_yan.png) 0 -50px no-repeat; }
+.search-form-bot input.ipt-03_zt { background:url(images/zt_search_btn_yan.png) 0 0 no-repeat; width: 90px; margin-left:0;}
+.search-form-bot input.ipt-03_zt:hover, input.hoverb { background:url(images/zt_search_btn_yan.png) 0 -50px no-repeat; }
+.search-form-bot input.ipt-03_img { background:url(images/img_search_btn_yan.png) 0 0 no-repeat; width: 90px; margin-left:0;}
+.search-form-bot input.ipt-03_img:hover, input.hoverb { background:url(images/img_search_btn_yan.png) 0 -50px no-repeat; }
+.search-form-bot input.ipt-03_blog { background:url(images/blog_search_btn_yan.png) 0 0 no-repeat; width: 90px; margin-left:0;}
+.search-form-bot input.ipt-03_blog:hover, input.hoverb { background:url(images/blog_search_btn_yan.png) 0 -50px no-repeat; }
+.search-form-bot input.ipt-03_product { background:url(images/product_search_btn_yan.png) 0 0 no-repeat; width: 90px; margin-left:0;}
+.search-form-bot input.ipt-03_product:hover, input.hoverb { background:url(images/product_search_btn_yan.png) 0 -50px no-repeat; }
+ 
+.ipt-04 { background:url(http://www.sinaimg.cn/dy/search/images/searchin_btn.png); width:90px; height:26px; border:none; color:#fff; margin:0 3px 0 0; }
+.search-form p { padding:10px 0 0 228px; }
+.search-form p label input { margin:-3px 3px 0 0; }
+.search-form p label { margin:0 1.5em 0 0; }
+ 
+.adv_search { padding:10px 20px; height:600px; }
+.adv_search table { width:100%; margin:20px auto; border-collapse:collapse; border-spacing:0 }
+.adv_search th, .adv_search td { border:dashed 1px #E4E9FA; border-width:1px 0; padding:10px }
+.adv_search th { text-align:left; font-size:14px; width:160px; padding-right:15px }
+.adv_search td p { padding-bottom:10px ;margin:5px;}
+.adv_search .btns { text-align:center; border-width:0; padding:20px }
+.adv_search .btns input { font-size:14px }
+.adv_search label { margin-right:2em; vertical-align:middle }
+.adv_search .inp_txt_long {    width:220px;padding:3px 4px ;float:right;margin-right:280px;}
+.adv_search .inp_txt {    width:220px;padding:3px 4px ;margin-right:40px;}
+.date_pick .inp_txt { width:100px; background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_011.png) no-repeat 95% center; cursor:pointer; }
+.data-select { background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_011.png) no-repeat 95% center; border:1px solid #8fcee0; padding:2px; height:14px; line-height:14px; width:80px; cursor:pointer; }
+.adv_search select { width:110px; margin-right:16px }
+
+.sec_tit h2 { font-weight:bold; margin:-10px 0 0px; font-family:"???¨ª????", "????"; font-size:18px }
+.nav { border-bottom:solid 1px #ddd;; line-height:28px; color:#666; margin-left:30px; width:700px}
+.nav .l{ padding:0 0 0 155px; }
+.nav .r_v2{ float:right; margin-top:-28px;padding:0px 5px;}
+.nav .r_v2 span{ display:inline-block; border-bottom:solid 1px #e42f36; position:relative; margin-bottom:-1px;}
+.nav .r{ color:#787878; position:relative }
+.nav .r strong, .nav .product_l { font-weight:normal; zoom:1 }
+.nav a:hover, .nav a:focus { text-decoration:none; }
+.nav2 { background:#eef7f9; margin-top:1px; line-height:30px; padding:0 10px; }
+.nav2 .l { border-right:1px solid #cfe9ef; width:150px; }
+.nav2 .r { line-height:normal; height:22px; padding:6px 0 0 0; }
+ 
+ 
+ 
+li .product_cur, .imgcur, dd ul li, dt .cur, .main .l .toClose, .main .l .toOpen, .reset, .r_list .selected a, .r_list dd .del_h { background:url(images/search_btn_yan.png) 999px 999px no-repeat; }
+.main .l dt{ height:25px; line-height:25px; padding-bottom:2px }
+.wrap .main .sidebar dl ul .selected, .imgcur, .main .l dt .cur, .sRight .r_list dd .cur { background-color:#ffffff; background-position:5px -94px; font-size:14px; margin-bottom:3px; padding-left:18px; }
+ .c_list span.cur li { background-color:#ffffff; background-position:5px -96px; font-size:14px; padding-bottom:3px; }
+.imgcur, .main .l dl dd ul span li .cur {cursor:pointer} 
+.l .sidebar dl dt a span, .sidebar dl dt a, dd ul li {cursor:pointer}
+.imgcur { color:#000; }
+li.imgcur:hover { background-color:#e9eff5; }
+.img_sidebar li a { display:block; }
+.main .l dl dt a, .main .l dl dd li a { color:#000000; }
+.search_history { width:205px; }
+.sRight .wbret-wrap .wbret-p3 .wbret-link1 { color:#7F7FCC; }
+#nav_result_container .zcblk { margin: 0 0 30px 0; padding:10px 0 10px 0;  }
+.zcblk .zch .nav_add_log { width:300px; margin-right:23px; }
+  
+ 
+
+.fgrey a:link, .fgrey a:visited { color:#5d5d5d}
+.fgrey a:hover { color:#333; text-decoration:none; }
+
+.main { cursor:default; }
+.main .l { width:125px; cursor:auto; }
+.main .l dl { padding:25px 0 0 0; }
+
+.main .l dt span { display:inline-block; padding-right:10px;}
+.main .l dt a, .main .l dd ul li { display:block; padding-left:17px; }
+.main .l .product_sidebar dl dt { display:block; padding-left:17px;}
+.main .l .product_sidebar .product_sidebar_dl dt { padding-left:0; }
+.main .l .product_sidebar dl dt.product_reset { padding-left:0; }
+#sidebar .product_sidebar { padding-top:10px; width:135px; }
+.main .product_sidebar dl dd ul li.cur:hover { background-color:#e9eff5; }
+.product_sidebar li a:hover { background-color:#e9eff5; }
+.product_sidebar li a { display:block; }
+.c_list a {display:block;}
+.main .l .toClose { background-position:100% -132px; }
+.main .l .toOpen { background-position:100% -170px; }
+.main .l #cannel.toOpen { background-position:-25px -170px; }
+.main .l #sYear.toOpen { background-position:-28px -170px; }
+.main .l #cdatebtn.toOpen { background-position:-3px -170px; }
+
+.main .l a:hover .toClose { background-position:100% -332px; }
+.main .l #cannel.toClose { background-position:-25px -332px; }
+.main .l #sYear.toClose { background-position:-28px -332px; }
+.main .l #cdatebtn.toClose { background-position:-3px -332px; }
+.main .l a:hover .toOpen { background-position:100% -370px; }
+
+.main .l a:link, .main .l a:visited { color:#000 }
+.main .l #sYear { display:inline-block; padding-right:10px;}
+.main .l a.reset { background-position:15px -234px; padding-left:30px }
+.main .l a.reset:hover { background-position:15px -254px; }
+.main .c_list { padding-top:5px; }
+.main .c_list li { height:20px; line-height:20px; padding-left:17px; margin:0 0 5px }
+.main .c_list li.on, .main .c_list li:hover, dd ul li:hover { background-color:#e9eff5; }
+ 
+.main .c_list a:hover { text-decoration:none; }
+.main .result { float:left; padding:10px 0px 10px 30px; width:589px; zoom:1; cursor:auto; position:relative; overflow:hidden; } 
+.main .product_result { width:700px; padding-left:10px; margin-left:10px; }
+.main .sLeft { float:left; width:619px; } 
+.main .sRight { float:right; width:235px; background-color:#fff; border:solid 1px #eaeaea; margin-top:-22px;} 
+.main .zcad { float:left; width:210px; float:right; }
+
+.r_list { padding-bottom:15px; }
+.r_list dt { font-size:14px; font-weight:bold; color:#3d3d3d; padding-left:15px; padding-bottom: 10px;}
+.r_list dd, .r_list dd .highlighted  { line-height:22px; height:22px; font-weight:normal}
+.r_list dd a, .r_list dd .highlighted  { padding: 0 20px 0 15px; display:inline-block; }
+.r_list .selected a { background-position: 0 -94px; font-size:14px; }
+.r_list dd a:hover, .r_list dd .highlighted:hover { background-color:#e9eff5 }
+ 
+.main .sidebar dl dt a:hover, .product_sidebar ul li:hover { background-color:#e9eff5 } 
+.main .sidebar dt .cur_time { padding-left:17px; }
+ 
+.sidebar dl a span { width:97px }  
+.r_list dd .del_h { background-position:15px -273px; padding-left:30px; }
+.r_list dd a.del_h:hover { background-position:15px -293px; padding-left:30px; }
+.r_list dd .highlighted { cursor:pointer; }
+.r_list.fgrey a, .r_list dd .highlighted  { width:205px; }
+
+.about_search{ background-color:#f3f5f8; padding:10px 0;}
+.about_search_box{ width:800px; padding-left:150px;}
+.about_search .Stabl01 th{font-size: 14px;font-weight: normal; line-height:30px; text-align: left; vertical-align: top;    white-space: nowrap;}
+.about_search .Stabl01 .tt{ padding:0 25px 0 0}
+.about_search .Stabl01 td{ width: 5%;}
+.about_search .Stabl01 a:hover{ text-decoration:none; color:#000099}
+
+.foot { text-align:center; padding:10px 0; color:#666666; background-color:#e1e1e1;font-size: 12px;}
+.foot a:link,.foot a:visited { color:#666; }
+.foot a:hover, .foot a:focus { text-decoration:none;color:#666; }
+
+ 
+
+
+a.amore { background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_007.png) no-repeat 100% -88px; padding-right:15px; }
+a.amore2 { background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_007.png) no-repeat 100% -49px; padding-right:15px; }
+.list-more { position:absolute; left:5px; top:18px; width:95px; z-index:10000; }
+.list-more .more-arr { background: url(http://www.sinaimg.cn/dy/search/images/sea_m_arr.png) no-repeat 10px 0; height:5px; overflow:hidden; position:relative; margin-bottom:-1px; zoom:1 }
+.ipt-01 { border:1px solid #60a9cc; padding:3px; line-height:20px; height:20px; width:426px; margin:0; float:left; font-size:14px; outline:none }
+.more-link { border:1px solid #687DCE; background:#fff; padding:3px 0 0 0; }
+.more-link a { display:block; margin:1px; line-height:24px; padding:0 0 0 13px; text-decoration:none; background:#fff; zoom:1; height:24px; overflow:hidden; }
+.more-link a:hover { background-color:#ECEEF9; text-decoration:none; color:#000099; }
+.more-link .line-dot { background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_004.png) repeat-x; }
+.data-select { background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_011.png) no-repeat 95% center; border:1px solid #8fcee0; padding:2px; height:14px; line-height:14px; width:80px; cursor:pointer; }
+.box-define { padding:0 0 0 7px; }
+.box-define p { padding:2px 0; }
+a.areset { background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_012.png) no-repeat 0 center; padding:0 0 0 15px; }
+a.back { background:url(http://www.sinaimg.cn/dy/search/images/back.png) no-repeat 0 center; padding:0 0 0 12px; margin:0 0 0 -10px; }
+ 
+.mod_bar { zoom:1; overflow:hidden; padding:0 0 5px; width:605px; margin:0 0 0 1px; }  
+ 
+.sort_option { float: right; margin:0; width:160px; height:25px; line-height:25px; text-align:center; } 
+.sort_option_product { margin:0; display:block; width:558px; text-align:right; height:25px; line-height:25px; z-index:9999; }
+.result .sort_option a { margin-left:0px; text-decoration:none; }
+.result .sort_option_product a { text-decoration:none; }
+.cur_sort { color:#000; padding-bottom:5px; background:url(http://www.sinaimg.cn/dy/search/images/arr.png) no-repeat 50% 100%;  }
+ 
+.tips_01 { position: relative; height:30px; line-height: 30px; background:#F2F6F9; margin: 0 18px 5px 0; padding:0 10px;border: 1px solid #e0ebf1; color: #000; }
+.tips_01 {   } 
+.tips_01 p em { color: #CC0033; }
+.tips_01 .close { color:#959ebe; position: absolute; right:6px; top:6px; line-height: 14px; font-family: arial; cursor: pointer; }
+ 
+#sidebtn{background:url(images/side_arr3.png) no-repeat 0 0;display:block; position:absolute; width:11px;height:30px;overflow:hidden;text-indent:-999em;margin:120px 0 0 -31px;padding:0;outline:none;}
+a#sidebtn.sideclose{background-position:100% 0;margin-left:-30px; }
+a.sideopen{}
+#sidebtn:hover{background-position:0 -30px; }
+a#sidebtn.sideclose:hover{background-position:100% 100%;}
+
+.result h2 { line-height:24px; }
+.box-result { zoom:1; padding:0 0 0 10px; border: 1px solid #fff; position:relative;margin-bottom:8px; } 
+.box-result {  } 
+.box-result .r-img { margin:5px 0; float:left; width:140px; position:relative; }
+.box-result .r-img .video { position:absolute; left:5px; bottom:5px; *bottom:9px;
+border:none; }
+a.a-img img { border:1px solid #ccc; padding:1px; }
+a.a-img:hover img { border-color:#69c; }
+.box-result .r-info { margin:5px 0; float:left; width:417px; } 
+.box-result .r-info p { word-wrap:break-word; word-break:break-all; }
+.box-result .r-info p a:link,.box-result .r-info p a:visited{ color:#7F7FCC} 
+.box-result .r-info p a:hover{ color:#4949b5} 
+.box-result .r-info p .col3 { display:inline-block; width:22%; overflow:hidden; height:16px; }
+.box-result .r-info p .update { width:45% }
+.box-result .r-info2 { float:none; width:auto; }
+.box-result h2 { font:normal normal normal 16px/1.67em "arial"; } 
+.box-result h2 .fgreen { font-size:12px; font-family:Arial; } 
+a strong.highlight, a:link strong.highlight, a:visited strong.highlight, .highlight { color:#c00; font-weight:normal; }
+a strong.highlight { text-decoration:underline }
+.box-result .fblue { color:#7f7fcc; text-decoration:none; } 
+ 
+.acmt { background:url(http://www.sinaimg.cn/dy/search/images/ss_cl_014.png) no-repeat 0 center; padding-left:12px; }
+.box-result a:visited { color:#800080; }
+.box-result a.fblue:visited { color:#7f7fcc; } 
+.box-result a.fblue:hover, .box-result a.fblue:focus { color:#f00; text-decoration:none; }
+.box-result .r-info a { text-decoration:underline; }
+.box-result h2 a{text-decoration: underline;} 
+.box-result .time { white-space:nowrap; }
+.box-result span.zts {  }
+.product_box-result { width:579px; }
+img.noimg { vertical-align:middle; margin:0 2px; }
+.list-img { overflow:hidden; zoom:1; padding:5px 0 0 0; height:94px; }
+.list-img li { float:left; margin:0 5px 0 0; display:inline; }
+.list-img li img { display:block; margin:0 auto; float:left; }
+.list-img li.lastall { border:none; width:auto; padding:78px 0 0 15px; }
+.result .hover { background: #F3F7FA; border-color: #E0EBF1 } 
+ 
+
+.pagebox { font-size:12px; margin-bottom:10px; margin-top:5px; }
+.pagebox a, .pagebox a:visited, .pagebox a:link { border:1px solid #ddd; color:#2c98c7; cursor:pointer; height:21px; line-height:21px; padding:0 8px; text-decoration:none; display:inline-block; overflow:hidden; margin-right:4px; }
+.pagebox a:hover { background:#044580 none repeat scroll 0 0; color:#FFFFFF; border-color:#044580 }
+.pagebox span.pagebox_cur_page { color:#000; cursor:default; font-weight:bold; height:23px; line-height:23px; padding:0 8px; display:inline-block; overflow:hidden; margin-right:4px; }
+ 
+.box-nav {  padding:0 0 0 10px; margin-bottom:25px; }
+ 
+.box-finance {  }
+.box-finance .r-img { width:auto; margin:2px 5px 0 0; }
+.box-finance .r-info { width:auto; padding-left:15px; }
+.box-finance h2 { padding: 0 0 10px 0; }
+.box-finance .r-num { font-family:arial; padding:0px 0 7px; zoom:1; }
+.box-finance .r-num:after { content:"."; display:block; height:0; visibility:hidden; clear:both; }
+.box-finance .r-num h3 { font-size:24px; font-weight:normal; line-height:1.0; padding:4px 14px 2px 0; float:left; margin:0 10px 0 0; border-right:1px solid #999; }
+.fgreen { color:#090; }
+.box-finance .r-num p { line-height:14px; white-space:nowrap; }
+.box-finance .r-num .num_detail { float:left; padding:2px 0 2px 14px; }
+.box-finance .r-data { padding:4px 1em 2px 2px; border-top:1px solid #999999; clear:both; _float:left; }
+.f_table { border-spacing:0; border-collapse:collapse; }
+.f_table th, .f_table td { padding-right:10px; text-align:left }
+.f_table td { padding-left:2px }
+ 
+
+ 
+.box-weather {  }
+.box-weather h2 { padding:0 0 8px 0; }
+.box-weather .w-cnt { overflow:hidden; zoom:1; margin:0 0 0 0; }
+.box-weather .w-icon { vertical-align:middle; }
+.box-weather dl { float:left; width:174px; padding:0 0 0 0px; border-right:1px dotted #ccc; margin-right:15px; }
+.box-weather dl.last { border:none; margin-right:-25px; }
+.box-weather dd p { line-height:normal; padding:3px 0; }
+ 
+ 
+.nav_16 .r-info h2 .hd { background: url(http://www.sinaimg.cn/dy/search/images/hd.png) repeat-x; border:solid 1px #9FB6E4; color:#8697D9; padding:3px 6px }
+.nav_16 .hd a {
+color:color:#8697D9; text-decoration:none }
+.nav_16 .blue { color:#6699cc; }
+ 
+.box-socre h2 { padding:0 0 5px 0; }
+.tbl-score { border-collapse:collapse; border:1px solid #CFE9EF; line-height:24px; font-family:arial; margin:5px 0; }
+.tbl-score th { background:#F1F4FC; padding-left:12px; text-align:left; border-right:1px solid #fff; }
+.tbl-score td { padding-left:12px; border-bottom:1px solid #CFE9EF; }
+.tbl-score td.tar { font-family:"arial"; padding:0 1em 0 0; }
+.more-keyword { font:normal normal normal 14px/1.67em "arial"; padding:10px; }
+.more-keyword td { padding:0 0 0 3px; line-height:26px; text-align:center; }
+.more-keyword td.item { padding: 0 25px; text-align:left; }
+.search-form-bot { padding:10px 0 20px;}
+.search-form-bot form { width:530px; padding-left:15px; }
+.sidebar { width:125px ;}
+.more-keyword a, .result a { text-decoration:none; }
+.from { color:#666; padding:10px 0 15px; }
+.from strong { font-weight:normal; color:#000 }
+.from strong a { text-decoration:none; color:#000; }
+ 
+ 
+.zebra { padding: 10px 0 10px 10px; }  
+.zebra .r-info { width:389px; } 
+.zebra .r-info2 { float:none; width:auto; }
+ 
+.view_icon { width:18px; height:15px; vertical-align:-10%; background:url(http://www.sinaimg.cn/dy/search/images/thumbs.png) no-repeat 0 0; }
+#thumb { background-position: 0 0 }
+#list { background-position:100% 0 }
+#thumb.on { background-position: 0 100% }
+#list.on { background-position:100% 100% }
+ 
+.box-prd { padding:10px; margin-bottom:15px }
+.box-prd h2 { margin-top:-3px }
+.box-prd .r-img { width:102px; text-align:center; vertical-align:middle; height:102px; line-height:102px; border:solid 1px #ccc; background:#fff; position:relative; overflow:hidden; zoom:1; display:table; }
+.box-prd .r-img a { position:static; +position:absolute;
+top:50%; vertical-align:middle; display:table-cell; _display:inline; zoom:1; _blr:expression(this.onFocus=this.blur());
+outline-style:none; }
+ 
+.box-prd .r-img a img { border:none; padding:0; vertical-align:middle; position:static; +position:relative;
+top:-50%; left:-50%; max-height:98px; max-width:98px; }
+.box-prd .r-info { float:none; margin-left:124px; width:auto; zoom:1 }
+.box-prd h3 { font-weight:normal; text-align:right; margin:-23px 0 0; font-size:12px }
+.box-prd h3 .price { color:#c00; font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:normal; line-height:28px; }
+.box-prd h3 .noprice { line-height:28px; }
+ 
+.box-software .r-img { width:44px; height:44px }
+.box-software .r-img a { width:42px; height:42px; line-height:42px }
+.box-software .r-img a img { margin-top:6px }
+.box-software .r-info { margin-left:60px }
+ 
+.dN { display:none }
+.thumbnail { font-size:12px; overflow:hidden; height:16px; }
+.thumbnail_view .box-prd { float:left; width:181px; padding:0; vertical-align:top }
+.thumbnail_view .r-img { float:none; width:142px; height:142px; line-height:142px }
+.thumbnail_view .r-img img { max-height:140px; max-width:140px;   _height:expression(this.scrollHeight>139?"140px":"auto");
+_width:expression(this.scrollWidth>139?"140px":"auto");
+ 
+    }
+.thumbnail_view .r-info { margin-left:0; padding:10px 0 0 0; zoom:1 }
+.thumbnail_view .r-info h3 { text-align:left; margin:0 }
+.thumbnail_view .r-info p.content { display:none }
+ 
+.thumbnail_view .r-info p .thumbnail { display:block }
+.thumbnail_view .r-info p .thumbnail { display:block; width:auto } 
+ 
+.small_icon { background:url(http://simg.sinajs.cn/miniblog2style/images/common/sicon.gif) no-repeat 0 0; overflow:hidden; }
+.male, .man { background-position:0 -20px; width:9px; height:12px; }
+.female, .sicon_female { width:9px; height:12px; background-position:0 0; }
+.vip { background-position:-32px -20px; width:11px; height:10px; }
+ 
+.box-map .r-img { width:250px }
+.box-map .r-info { width:auto; margin-left:250px; float:none }
+ 
+#ui-datepicker-div { margin-top:5px; margin-left:-10px;  margin-bottom:20px; font-size:12px; font-family:Arial, Helvetica, sans-serif; background:#fff; display:none; border:1px #9ca9cb solid; width:244px; padding:3px; color:#434343; overflow:hidden; z-index:99 }
+#ui-datepicker-div select { height:21px; color:#434343; cursor:pointer }
+.ui-datepicker-header { width:244px; height:25px; border-bottom:1px #fff solid; overflow:hidden; background:url(http://i3.sinaimg.cn/dy/home/090605/bg_news.png) no-repeat 0 0; position:relative }
+.ui-datepicker-header a.ui-state-disabled, .ui-datepicker-header a.ui-state-disabled:visited { background:#d8ebfe; cursor:default }
+.ui-datepicker-prev { width:30px; height:21px; overflow:hidden; cursor:pointer; position:absolute; top:2px; left:4px; display:block }
+.ui-datepicker-next { width:30px; height:21px; overflow:hidden; cursor:pointer; position:absolute; top:2px; right:5px; display:block }
+.ui-datepicker-title { text-align:center; width:175px; height:21px; position:absolute; top:2px; left:34px }
+.ui-datepicker-year, .ui-datepicker-month { width:60px }
+.ui-datepicker-calendar { width:245px; border-collapse:collapse; border-left:1px #fff solid }
+.ui-datepicker-calendar th, .ui-datepicker-calendar td { padding:0; background:#efefef; color:#686868; border-right:1px #fff solid; border-bottom:1px #fff solid; line-height:22px; text-align:center; cursor:default; font-weight:400 }
+.ui-datepicker-calendar th {  background:#e9e9e9 }
+.ui-datepicker-calendar th span { display:block }
+.ui-datepicker-calendar th.ui-datepicker-week-end, .ui-datepicker-calendar td.ui-datepicker-week-end {  }
+.ui-datepicker-calendar td { font-size:10px }
+.ui-datepicker-calendar td.ui-state-disabled { color:#aaa }
+.ui-datepicker-calendar td a, .ui-datepicker-calendar td a:visited { display:block; cursor:pointer; color:#686868; text-decoration:none; text-align:center; border:1px #efefef solid; line-height:20px; height: 20px }
+.ui-datepicker-calendar td a:hover, .ui-datepicker-calendar td a:active, .ui-datepicker-calendar td a:focus { background:#ec6e6b; color:#fff; border:1px #a40300 solid }
+.ui-datepicker-calendar td a.ui-state-active, .ui-datepicker-calendar td a.ui-state-active:visited {  background:#fff; border-color:#efefef }
+.ui-datepicker-calendar td a.ui-state-active:hover, .ui-datepicker-calendar td a.ui-state-active:active, .ui-datepicker-calendar td a.ui-state-active:focus { color:#ca0e0a; text-decoration:underline; background:#fff; border-color:#efefef }
+.ui-datepicker-calendar td a.ui-state-highlight, .ui-datepicker-calendar td a.ui-state-highlight:visited { background:#ca0e0a; color:#fff; border:1px #a40300 solid }
+.ui-datepicker-calendar td a.ui-state-highlight:hover, .ui-datepicker-calendar td a.ui-state-highlight:active, .ui-datepicker-calendar td a.ui-state-highlight:focus { background:#ca0e0a; color:#ff0; text-decoration:underline; border:1px #a40300 solid }
+.ui-icon, .ui-datepicker-cover, .ui-datepicker-trigger { display:none }
+.pagenum { font-size:11px; font-family:verdana; }
+.noresult { margin-left:25px; clear:left; font-size:14px; padding-bottom:100px; }
+.noresult h4 { font-weight:normal; font-size:14px; line-height:30px; }
+.noresult h4 span { color:#cc0033; }
+.noresult p { font-size:14px; line-height:50px; }
+.noresult ul { }
+.noresult ul li { font-size:14px; line-height:20px; margin-left:30px; list-style-type:disc; }
+.more_switch { text-align:right; }
+.more_switch a.amore, .more_switch a.amore2 { background-image:url(http://www.sinaimg.cn/dy/search/images/sw.png); outline:none 0; text-decoration:none; }
+span.style1 { color:#f00; }
+ 
+.gray_lv2 { color:#666 }
+.cur_area { margin:0 0 5px 30px; }
+.notice { background:url(http://www.sinaimg.cn/dy/search/images/notice.gif) no-repeat 0 50%; padding:2px 2px 2px 15px; }
+ 
+#search_more { padding:0 20px; font-size:14px; height:300px; position:relative; z-index:2 }
+#search_more h2 { font-weight:bold; margin:-10px 0 18px; font-family:"???¨ª????", "????"; font-size:18px; position:relative; z-index:20 }
+#search_more p { line-height:157% }
+.main .l li .type-more li { padding-left:7px; } 
+.type-more { zoom:1; overflow:hidden }
+ 
+label.label_range { cursor:pointer; }
+label.label_range input { cursor:pointer; }
+ 
+ 
+.WorldCupTop { height:95px!important }
+.w_c_p { background: url(http://www.sinaimg.cn/dy/search/images/sjb_banner.png) no-repeat 100% 100%; height:95px }
+.world_cup_filter { position:absolute; margin:0; color:#cc0000; }
+.world_cup_filter a { color:#00f; text-decoration:none }
+.world_cup_filter a:hover { color:#f00; text-decoration:none; }
+.main .l li span { color:#000000 }
+ 
+.sidebar li.wc2010_a a { color:#f60; }
+.sidebar li.wc2010_a a:hover { color:#f00; }
+ 
+img.size_hd {   margin-left:2px; }
+ 
+.sidebar a:hover, .sidebar a:focus { text-decoration:none; }
+ 
+.cdatehost { text-align:right; margin-right:2px; }
+.cdatehost p { padding:2px 0 0 0; }
+.cdatehost .btns { text-align:center; border-width:0; padding:20px }
+.cdatehost .btns input { font-size:14px }
+.cdatehost label { margin-right:2em; vertical-align:middle }
+.cdatehost .inp_txt { border:solid 1px #9EB5E4; width:90px; padding:3px 4px; height:13px; }
+.cdatehost select { width:90px; margin-right:16px }
+ 
+.mod_thumb { float: left; width: 140px; text-align: center; }
+.mod_thumb table { margin: auto; text-align: center; }
+.mod_thumb .video { text-align: left; }
+.mod_thumb .video a { position: relative; display: block; margin: -25px 0 0 5px; }
+.mod_thumb .btn_play { display: inline-block; width: 73px; height: 25px; background: url(http://www.sinaimg.cn/dy/search/images/search_btn_play.png) 0 0 no-repeat; }
+#search_ft_02 { display: none; }
+.dropselectbox { display:inline; }
+.dropdown { outline:none; display:inline-block; vertical-align: middle; *display:inline;
+zoom:1; background:#dee3fa; }
+.dropdown * { -moz-user-select:none; }
+.dropdown h4 { cursor:pointer; text-indent:5px; height:24px; padding-right: 5px; font:12px/24px '????', sans-serif; border:solid 1px #667bce; background:url(http://www.sinaimg.cn/dy/search/images/search_slt_arr.png) no-repeat right center; }
+.dropdown h4.over { border-color:#667bce; background-image:url(http://www.sinaimg.cn/dy/search/images/search_slt_arr.png); }
+.dropdown h4.current { border-color:#667bce; }
+.dropdown div { display:block;}
+.dropdown ul { position:absolute; display:none; margin:0; padding:0; float:left; clear:both; border:1px solid #667bce; background:#FFF; }
+.dropdown ul li { text-indent:5px; display:block; cursor:default; background:#FFF; height:19px; }
+.dropdown ul li.over { background:#39f; color:#FFF; }
+ 
+
+.icon_arr { padding-right: 10px; background: url(http://www.sinaimg.cn/dy/search/images/search3.png) right center no-repeat; }
+
+.ipt-00 { border:1px solid #898989; padding:3px 5px; line-height:24px; height:24px; font-size:14px; width:400px; margin:0 10px 0 0; }
+.filterzz {height: 24px;padding: 10px 0;text-align: center;}
+.filterzz a:link, .filterzz a:visited {background: none repeat scroll 0 0 #F6F6F6;border: 1px solid #EFEFEF;color: #6699CC;text-decoration: none;}
+.filterzz a {background: none repeat scroll 0 0 #F6F6F6;border: 1px solid #EFEFEF;color: #6699CC;display: inline-block;height: 22px;line-height: 22px;margin: 0 auto;padding: 0 75px;}
+.foot_tip{padding:10px 0;color:#777;margin:10px 0 5px 0;border-top: dashed 1px #999;}
+
+.result_s { display:inline;float:left;width:124px;margin:30px 50px 0px 20px;}
+.result_s .result_s_pic { display:block;position:relative;padding:1px;border:1px solid #dcdcdc;line-height:0px;font-size:0px;zoom:1;}
+.result_s .result_s_pic span { position:absolute;left:1px;bottom:1px;width:120px;height:18px;line-height:18px;font-size:12px;color:white;text-align:right;}
+.result_s .result_s_marker { background-color:black;opacity:0.6;filter:alpha(opacity=60);}
+.result_s .result_s_pic .result_s_length { width:114px;padding-right:6px;}
+.result_s .result_s_play { display:none;position:absolute;left:50%;top:50%;margin-left:-16px;margin-top:-20px;width:32px;height:32px;background:url(images/result_play_btn.png);_background:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=scale, src='images/result_play_btn.png');}
+.result_s .result_s_pic:hover .result_s_play { display:block;}
+.result_s p { color:#666666;}
+.result_s .result_key { color:red;}
+.result_s .result_s_title { height:36px;line-height:18px;margin:5px 0;}
+
+
+</style>
+
+<script type="text/javascript" src="/js/global.v2.js"></script>
+<script type="text/javascript" src="http://www.sinaimg.cn/jslib/jquery-1.4.2.min.js"></script>
+
+
+
+<script type="text/javascript" src="js/jquery.suggest.js"></script>
+<style type="text/css">
+	.ac_results {
+	
+		width: 384px;
+	
+		border: 1px solid gray;
+		background-color: white;
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		overflow: hidden;
+		position: absolute;
+		z-index: 10000;
+		display: none;
+	}
+	
+	.ac_results li {
+		padding: 2px 5px;
+		white-space: nowrap;
+		color: #333;
+		text-align: left;
+		font-size:14px;
+		height:20px;
+		line-height:20px;
+	}
+	
+	.ac_over {
+		cursor: pointer;
+		background-color: #d9e1f6;
+	}
+</style>
+<script type="text/javascript">
+function bindSuggest(obj) {
+	
+	var url = "suggest/index";
+	var selector = obj!=null ? ('#'+obj.target.id) : 'a.selected';
+	url += $(selector).attr('id') == 'tab08' ? '?type=intraproducts' : '';
+	
+	$(".ipt-01").filter(function(){return $(this).parents('div.search-ipt')[0].style.display=='block';}).add($(".ipt-02:first")).suggest(url,{
+		minchars: 1,
+		delay: 0,
+		onSelect: function() {$(this).parents('form').submit();}
+	});
+	
+}
+$(function() {
+	$('a').filter(function(){return this.id.match(/tab0\d+/);}).each(function(){$(this).click(bindSuggest);});
+	bindSuggest(null);
+});
+</script>
+
+
+
+<script language="javascript">
+
+(function($) {
+	$.fn.extend({
+		sSelect: function() {
+			var self=this;
+			return this.each(function(i, obj) {
+				var selectId = (this.name || this.id) + '__jQSelect' + i || '__jQSelect' + i;
+				if (obj.style.display != 'none' && $(this).parents()[0].id.indexOf('__jQSelect') < 0) {
+					var tabindex = this.tabIndex || 0;
+					$(this).before("<div class='dropdown' id=" + selectId + " tabIndex=" + tabindex + "></div>").prependTo($("#" + selectId));
+					var selectZindex = $(this).css('z-index'),
+					selectIndex = $('#' + selectId + ' option').index($('#' + selectId + ' option:selected')[0]);
+					$('#' + selectId).append('<div class="dropselectbox"><h4></h4><ul></ul></div>');
+					$('#' + selectId + ' h4').empty().append($('#' + selectId + ' option:selected').text());
+					
+					var w = self.outerWidth();
+					$('#' + selectId + ' h4').css({
+						width: w
+					});
+					var selectUlwidth = w + parseInt($('#' + selectId + ' h4').css("padding-left")) + parseInt($('#' + selectId + ' h4').css("padding-right"));
+					$('#' + selectId + ' ul').css({
+						width: selectUlwidth + 'px'
+					});
+					$('#' + selectId + ' select').hide();
+					$('#' + selectId + ' div').hover(function() {
+						$('#' + selectId + ' h4').addClass("over");
+					},
+					function() {
+						$('#' + selectId + ' h4').removeClass("over");
+					});
+					$('#' + selectId)
+					.bind("focus", 
+					function() {
+						$.fn.clearSelectMenu(selectId, selectZindex);
+						$('#' + selectId + ' h4').addClass("over");
+					})
+					.bind("click", 
+					function(e) {
+						if ($('#' + selectId + ' ul').css("display") == 'block') {
+							$.fn.clearSelectMenu(selectId, selectZindex);
+							return false;
+						} else {
+							$('#' + selectId + ' h4').addClass("current");
+							$('#' + selectId + ' ul').show();
+							var selectZindex = $(this).css('z-index');
+							if ($.browser.msie || $.browser.opera) {
+								$('.dropdown').css({
+									'position': 'relative',
+									'z-index': '0'
+								});
+							}
+							$('#' + selectId).css({
+								'position': 'relative',
+								'z-index': '999'
+							});
+							$.fn.setSelectValue(selectId);
+							selectIndex = $('#' + selectId + ' li').index($('.selectedli')[0]);
+							var windowspace = ($(window).scrollTop() + document.documentElement.clientHeight) - $(this).offset().top;
+							var ulspace = $('#' + selectId + ' ul').outerHeight(true);
+							var windowspace2 = $(this).offset().top - $(window).scrollTop() - ulspace;
+							windowspace < ulspace && windowspace2 > 0 ? $('#' + selectId + ' ul').css({
+								top: -ulspace
+							}) : $('#' + selectId + ' ul').css({
+								top: $('#' + selectId + ' h4').outerHeight(true)
+							});
+							$(window).scroll(function() {
+								windowspace = ($(window).scrollTop() + document.documentElement.clientHeight) - $('#' + selectId).offset().top;
+								windowspace < ulspace ? $('#' + selectId + ' ul').css({
+									top: -ulspace
+								}) : $('#' + selectId + ' ul').css({
+									top: $('#' + selectId + ' h4').outerHeight(true)
+								});
+
+							});
+							$('#' + selectId + ' li').click(function(e) {
+								selectIndex = $('#' + selectId + ' li').index(this);
+								$.fn.keyDown(selectId, selectIndex);
+								$('#' + selectId + ' h4').empty().append($('#' + selectId + ' option:selected').text());
+								$.fn.clearSelectMenu(selectId, selectZindex);
+								e.stopPropagation();
+								e.cancelbubble = true;
+
+							})
+							.hover(
+							function() {
+								$('#' + selectId + ' li').removeClass("over");
+								$(this).addClass("over").addClass("selectedli");
+								selectIndex = $('#' + selectId + ' li').index(this);
+
+							},
+							function() {
+								$(this).removeClass("over");
+
+							}
+							);
+
+						};
+						e.stopPropagation();
+
+					})
+					.bind('mousewheel', 
+					function(e, delta) {
+						e.preventDefault();
+						var mousewheel = {
+							$obj: $('#' + selectId + ' li.over'),
+							$slength: $('#' + selectId + ' option').length,
+							mup: function() {
+								this.$obj.removeClass("over");
+								selectIndex == 0 ? selectIndex = 0: selectIndex--;
+								$.fn.keyDown(selectId, selectIndex, true);
+
+							},
+							mdown: function() {
+								this.$obj.removeClass("over");
+								selectIndex == (this.$slength - 1) ? selectIndex = this.$slength - 1: selectIndex++;
+								$.fn.keyDown(selectId, selectIndex, true);
+
+							}
+
+						}
+						delta > 0 ? mousewheel.mup() : mousewheel.mdown();
+
+					})
+					.bind("dblclick", 
+					function() {
+						$.fn.clearSelectMenu(selectId, selectZindex);
+						return false;
+
+					})
+					.bind("keydown", 
+					function(e) {
+						$(this).bind('keydown', 
+						function(e) {
+							if (e.keyCode == 40 || e.keyCode == 38 || e.keyCode == 35 || e.keyCode == 36) {
+								return false;
+
+							}
+
+						});
+						var $obj = $('#' + selectId + ' li.over'),
+						$slength = $('#' + selectId + ' option').length;
+						var noChange = true;
+						switch (e.keyCode) {
+							case 9:
+							return true;
+							break;
+							case 13:
+							
+							$.fn.clearSelectMenu(selectId, selectZindex);
+							$.fn.keyDown(selectId, selectIndex);
+							break;
+							case 27:
+							
+							$.fn.clearSelectMenu(selectId, selectZindex);
+							break;
+							case 33:
+							$obj.removeClass("over");
+							selectIndex = 0;
+							$.fn.keyDown(selectId, selectIndex);
+							break;
+							case 34:
+							$obj.removeClass("over");
+							selectIndex = ($slength - 1);
+							$.fn.keyDown(selectId, selectIndex);
+							break;
+							case 35:
+							$obj.removeClass("over");
+							selectIndex = ($slength - 1);
+							$.fn.keyDown(selectId, selectIndex);
+							break;
+							case 36:
+							$obj.removeClass("over");
+							selectIndex = 0;
+							$.fn.keyDown(selectId, selectIndex);
+							break;
+							case 38:
+							
+							e.preventDefault();
+							$obj.removeClass("over");
+							selectIndex == 0 ? selectIndex = 0: selectIndex--;
+							$.fn.keyDown(selectId, selectIndex, noChange);
+							break;
+							case 40:
+							
+							e.preventDefault();
+							$obj.removeClass("over");
+							selectIndex == ($slength - 1) ? selectIndex = $slength - 1: selectIndex++;
+							$.fn.keyDown(selectId, selectIndex, noChange);
+							break;
+							default:
+							e.preventDefault();
+							break;
+
+						};
+
+					})
+					.bind("blur", 
+					function() {
+						$.fn.clearSelectMenu(selectId, selectZindex);
+						return false;
+
+					})
+					.bind("selectstart", 
+					function() {
+						return false;
+
+					});
+
+				} else if ($(this).parents()[0].id.indexOf('__jQSelect') > 0) {
+					selectId = $(this).parents()[0].id;
+					$.fn.setSelectValue(selectId);
+					var w = self.outerWidth();
+					$('#' + selectId + ' h4').css({
+						width: w
+					});
+					var selectUlwidth = w + parseInt($('#' + selectId + ' h4').css("padding-left")) + parseInt($('#' + selectId + ' h4').css("padding-right"));
+					$('#' + selectId + ' ul').css({
+						width: selectUlwidth + 'px'
+					});
+					if (this.style.display != 'none') {
+						$(this).hide();
+					}
+
+				}
+			})
+		},
+		clearSelectMenu: function(selectId, selectZindex) {
+			if (selectId != undefined) {
+				selectZindex = selectZindex || '999';
+				$('#' + selectId + ' ul').empty().hide();
+				$('#' + selectId + ' h4').removeClass("over").removeClass("current");
+				$('#' + selectId).css({
+					'z-index': selectZindex
+				});
+			}
+		},
+		setSelectValue: function(sID) {
+			var content = [];
+			$.each($('#' + sID + ' option'), 
+			function(i) {
+				content.push("<li class='FixSelectBrowser'>" + $(this).text() + "</li>");
+			});
+			content = content.join('');
+			$('#' + sID + ' ul').html(content);
+			$('#' + sID + ' h4').html($('#' + sID + ' option:selected').text());
+			$('#' + sID + ' li').eq($('#' + sID + ' select')[0].selectedIndex).addClass("over").addClass("selectedli");
+		},
+		keyDown: function(sID, selectIndex, noChange) {
+			var $obj = $('#' + sID + ' select');
+			$obj[0].selectedIndex = selectIndex;
+			if (!noChange) {
+				$obj.change();
+			};
+			$('#' + sID + ' li:eq(' + selectIndex + ')').toggleClass("over");
+			$('#' + sID + ' h4').html($('#' + sID + ' option:selected').text());
+		}
+	});
+	var types = ['DOMMouseScroll', 'mousewheel'];
+	$.event.special.mousewheel = {
+		setup: function() {
+			if (this.addEventListener)
+			for (var i = types.length; i;)
+			this.addEventListener(types[--i], handler, false);
+			else
+			this.onmousewheel = handler;
+		},
+		teardown: function() {
+			if (this.removeEventListener)
+			for (var i = types.length; i;)
+			this.removeEventListener(types[--i], handler, false);
+			else
+			this.onmousewheel = null;
+		}
+	};
+	$.fn.extend({
+		mousewheel: function(fn) {
+			return fn ? this.bind("mousewheel", fn) : this.trigger("mousewheel");
+		},
+		unmousewheel: function(fn) {
+			return this.unbind("mousewheel", fn);
+		}
+	});
+	function handler(event) {
+		var args = [].slice.call(arguments, 1),
+		delta = 0,
+		returnValue = true;
+		event = $.event.fix(event || window.event);
+		event.type = "mousewheel";
+		if (event.wheelDelta) delta = event.wheelDelta / 120;
+		if (event.detail) delta = -event.detail / 3;
+		args.unshift(event, delta);
+		return $.event.handle.apply(this, args);
+	}
+})(jQuery);
+
+</script>
+
+
+<script type="text/javascript">
+(function(){
+if(!/\((iPhone|iPad|iPod)/i.test(navigator.userAgent)){return};
+
+
+var css = 'a{text-decoration:none!important}';
+var style = document.createElement('style');
+document.getElementsByTagName('head')[0].appendChild(style);
+style.textContent = css;
+
+
+document.addEventListener('mousedown',function(e){
+	var ele = e.target;
+	do{
+		if(ele.tagName == 'A'){
+			ele.target = '_self';
+			return;
+		};
+		if(ele.tagName == 'DIV'){return};
+	}while(ele = ele.parentNode);
+	},false);
+})();
+</script>
+
+<script type="text/javascript">
+<!--
+
+if( !(/\((iPhone|iPad|iPod)/i.test(navigator.userAgent)) ){
+	$(document).ready(function () {
+		$('.box-result').hover(
+			function () {
+				$(this).addClass("hover");
+			},
+			function () {
+				$(this).removeClass("hover");
+			}
+		);
+	});
+}
+
+</script>
+
+
+
+<style type="text/css">
+.top2 .search-form .ipt-02 {margin:0 3px 0 0}
+.sidebar { width:125px ;border-right: 1px solid rgb(200, 213, 240);}
+
+</style>  
+
+</head>
+<body>
+<div class="topWrap">
+<div style="position:relative;z-index:10000" id="top_column">
+	<div class="top clearfix">
+		<div class="l">
+		<div class="l">
+
+        
+			<h1 class="l"><a href="/?t=news"><img src="images/logo_new_yan.png" alt="新浪搜索"></a></h1>
+        
+
+
+          <div class="navType l">
+			<a rel="/?q=[keyword]&c=news" href="/?q=%E6%B5%AA%E8%8E%8E%E8%82%A1%E4%BB%BD&c=news" class="selected" id="tab02" suda-uatrack="key=SearchHeader&value=news">新闻</a>
+			
+			<a rel="http://s.weibo.com/weibo/[keyword]" href="http://s.weibo.com/" target="_blank" id="tab04" suda-uatrack="key=SearchHeader&value=weibo">微博</a>
+			
+			<a rel="/?q=[keyword]&c=img" href="/?q=%E6%B5%AA%E8%8E%8E%E8%82%A1%E4%BB%BD&c=img" id="tab07" suda-uatrack="key=SearchHeader&value=pic">图片</a>
+			
+			
+			<a rel="/?q=[keyword]&c=video" href="/?q=%E6%B5%AA%E8%8E%8E%E8%82%A1%E4%BB%BD&c=video&range=title" id="tab02">视频</a>
+			
+			<a rel="http://biz.finance.sina.com.cn/suggest/lookup_n.php?country=&q=[keyword]&name=s&t=keyword&c=all&k=s&range=all&col=1_7&from=channel" href="http://biz.finance.sina.com.cn/suggest/lookup_n.php?country=&q=%E6%B5%AA%E8%8E%8E%E8%82%A1%E4%BB%BD&name=s&t=keyword&c=all&k=s&range=all&col=1_7&from=channel" target="_blank" id="tab04" suda-uatrack="key=SearchHeader&value=weibo">股票</a>
+			
+          	<a href="?c=more" id="topamore"  suda-uatrack="key=SearchHeader&value=more">更多>></a>
+          </div>
+       	</div>
+	</div>
+		<div class="r">
+			
+				
+			
+			<a href="http://www.sina.com.cn" suda-uatrack="key=SearchHeader&amp;value=sinahomepage">新浪首页</a>
+		</div>
+
+
+         
+        
+        <div class="login-frame">
+            <a href="javascript:;" class="login-button" id="JS_Login_Btn"><span style="cursor:pointer;">登录</span></a>
+            <div class="logined-wrap fl" id="JS_Logined_Wrap"></div>
+            <div id="JS_Login_Layer" style="display:none"></div>
+        </div>
+        
+        
+
+
+	</div>
+	<div class="list-more" id="topcmore" style="left:292px;top:26px;display:none;">
+		<div class="more-arr"></div>
+		<div class="more-link">
+			<a rel="http://biz.finance.sina.com.cn/suggest/lookup_n.php?suggest_radio=lookupn&country=&q=[keyword]&t=keyword&c=all&k=[keyword]&name=[keyword]" href="http://biz.finance.sina.com.cn/suggest/lookup_n.php?suggest_radio=lookupn&country=&q=%e6%b5%aa%e8%8e%8e%e8%82%a1%e4%bb%bd&t=keyword&c=all&k=%e6%b5%aa%e8%8e%8e%e8%82%a1%e4%bb%bd&name=%e6%b5%aa%e8%8e%8e%e8%82%a1%e4%bb%bd" target="_blank">股票</a>
+			<a rel="http://php.weather.sina.com.cn/search.php?city=[keyword]&c=1&f=1&dpc=1" href="http://php.weather.sina.com.cn/search.php?city=%e6%b5%aa%e8%8e%8e%e8%82%a1%e4%bb%bd&c=1&f=1&dpc=1" target="_blank">天气</a>
+			<a rel="http://map.sina.com.cn/#city=北京!type=0!cr=12,11639794,3990817!k=[keyword]!strt=0!snum=10" href="http://map.sina.com.cn/#city=北京!type=0!cr=12,11639794,3990817!k=%e6%b5%aa%e8%8e%8e%e8%82%a1%e4%bb%bd!strt=0!snum=10" target="_blank">地图</a>
+			<a rel="http://yingxun.ent.sina.com.cn/search_key.php?keyword=[keyword]" href="http://yingxun.ent.sina.com.cn/search_key.php?keyword=%e6%b5%aa%e8%8e%8e%e8%82%a1%e4%bb%bd" target="_blank">影讯</a>
+			<a rel="http://data.ent.sina.com.cn/show/search.php?keyword=[keyword]" href="http://data.ent.sina.com.cn/show/search.php?keyword=%e6%b5%aa%e8%8e%8e%e8%82%a1%e4%bb%bd" target="_blank">演出</a>
+			<a href="http://bbs.sina.com.cn/" target="_blank" class="line-dot">论坛</a>
+			<a href="?c=more" class="line-dot">更多&gt;&gt;</a>
+		</div>
+	</div>
+</div>
+
+    <div class="top2">
+        <div class="search-form l">
+            <form method="get" action="/" onsubmit="return submit_form(this)">
+                <input type="text" name="q" autocomplete="off" maxlength="100" value="浪莎股份" class="ipt-02" onblur="set_top_column_href(this.value);" id="keyword" />
+                
+                    <input type="submit" value="" class="ipt-03" hidefocus="true" suda-uatrack="key=SearchHeader&value=searchnews" />
+                
+
+                <a href="/?c=adv&q=%E6%B5%AA%E8%8E%8E%E8%82%A1%E4%BB%BD" suda-uatrack="key=SearchHeader&value=advancedsearch">高级搜索</a>
+                <p>
+                
+                 <label class="label_range" for="range1_all">
+                    <input type="radio" onclick="news_range_search_base_click(this);" id="range1_all"
+                         checked="checked" 
+                      name="range" value="all" >新闻全文
+                </label>
+                
+                 <label class="label_range" for="range1_title">
+                    <input type="radio" onclick="news_range_search_base_click(this);" id="range1_title"
+                       suda-uatrack="key=SearchHeader&value=
+                        title
+                        " 
+                      name="range" value="title" >新闻标题
+                </label>
+                
+                </p>
+               
+                
+                <input name="c" type="hidden" value="news" />
+                <input name="sort" type="hidden" value="time" />
+                
+
+                
+            </form>
+        </div>
+    </div>
+</div>
+<style type="text/css">
+
+body{font-family: "Arial","Microsoft YaHei","微软雅黑";} 
+.r-info-blog .content{font-size: 14px;line-height: 20px;padding-top: 5px;padding-bottom: 10px;} 
+.box-result .r-info{width: 545px} 
+.box-result .r-info2{width: 670px} 
+.box-result .r-info a{text-decoration: none!important;} 
+.box-result .r-info-blog-tit a { text-decoration:none!important;} 
+input.ipt-03{background: url(/images/0422_zyc_search_newIcons.png) 0 -233px no-repeat;} 
+form input.ipt-03:hover, input.ipt-03.hover{background-position: -96px -233px}
+.r-info-blog .fgray{color: #616161;padding-left: 10px;} 
+.box-result .r-info p a:link, .box-result .r-info p a:visited{color: #000099} 
+.box-result .r-info p a:hover{color: #ff0000} 
+ 
+ 
+.search_bar{width: 730px;padding-left: 30px;padding-bottom: 8px;}
+.search_type{float: left;}
+.search_type a{float: left;padding: 0 10px;height: 22px;line-height: 22px;color: #000099;}
+.search_type a.cur{color: #fff;background: #4141aa;}
+.search_filter{float: right;height: 22px;line-height: 22px;}
+.search_filter .left{float: left;border-right: 1px solid #bcbcbc;padding-right: 15px;}
+.search_filter .right{float: left;padding-left: 15px;}
+.search_filter span,.search_filter a{padding: 0 5px;font-size: 12px;}
+.search_filter .cur{color: #5f5f5f;}
+
+ 
+.nav{width: 100%;margin-left: 0;}
+.r-info-pic{float: left;margin-right: 10px;padding-top: 10px;_height:expression((this.offsetHeight)>260?"250px":"auto");max-height: 240px;overflow: hidden;} 
+.box-result .r-img{_height:expression((this.offsetHeight)>240?"240px":"auto");max-height: 240px;overflow: hidden;}
+.r-info-pic img{border: 1px solid #e8e8e8;}
+.box-result .r-info-blog{width: 530px;} 
+.box-result .r-info-blog-full{width: 660px;} 
+.box-result h2{font:normal normal normal 16px/1.67em "Arial","Microsoft YaHei","微软雅黑"} 
+.main .result{width: 690px;} 
+.box-result{border-bottom: 1px solid #f2f2f2;padding: 10px 0;margin-bottom: 0;} 
+.r-info-blog-tit .rib-author{color: #2c2c2c;} 
+.r-info-blog-tit .rib-author:visited{color: #2c2c2c;} 
+.r-info-blog-tit .rib-author:hover{color: #cc0033;} 
+.main .sRight{margin-top: 15px;}
+.result_num{padding: 5px 0;color: #666;}
+
+.result-top{border-bottom: 1px solid #d9d9f0;border-top: 1px solid #d9d9f0;margin-bottom: 0;}
+.so_userinfo{border-bottom:1px solid #f2f2f2;padding: 20px 0;}
+.result-top .so_userinfo{border-bottom: 0px;margin-bottom: 0;padding: 13px 0;} 
+.info_txt .it_p span{padding: 5px 0 2px;display: block;} 
+.info_txt ul{margin-top: 8px;} 
+.info_txt h4{font-size: 16px;} 
+.blog_rss{background: url(/images/0422_zyc_search_newIcons.png) 0 -93px no-repeat;display: block;text-indent: -999em;width: 58px;height: 18px;}
+ 
+.main .sRight{border: 0;}
+.blk_right{border-left: 1px solid #e9e9e9;padding-left: 10px;}
+.blk_myRss{padding: 10px 0;border-bottom: 1px solid #e9e9e9;}
+
+.br_title h4{font-size: 14px;color: #000;float: left;}
+.br_title .rss_rssCur{background: url(/images/0422_zyc_search_newIcons.png) 0 -63px no-repeat;padding-left: 15px;font-size: 12px;float: right;color: #4141aa;}
+.blk_myRss ul{margin-top: 10px;}
+.ul_right li{height: 20px;line-height: 20px;position: relative;padding-left: 10px;margin-bottom: 5px;}
+.ul_right li .delItem{display: none;background: url(/images/0422_zyc_search_newIcons.png) 0 0 no-repeat;width: 21px;height: 20px;position: absolute;right: 0;top:0;text-indent: -999em;border-left: 1px solid #fff;}
+.ul_right li .delItem:hover{background-position: -29px 0;}
+.ul_right li.cur{background: #e9eff5}
+.ul_right .cur .delItem{display: block;}
+.blk_myHis{padding: 10px 0;border-bottom: 1px solid #e9e9e9;}
+.blk_myHis ul{margin-top: 10px;}
+.blk_myHis .his_fold{background: url(/images/0422_zyc_search_newIcons.png) 0 -32px no-repeat;width: 16px;height: 14px;text-indent: -999em;float: left;margin-left: 5px;margin-top: 3px;overflow: hidden;}
+.blk_myHis .his_fold:hover{background-position: -29px -32px;}
+.blk_myHis .his_unfold{background-position: 0 -48px;}
+.blk_myHis .his_unfold:hover{background-position: -29px -48px;}
+.blk_myHis .his_clear{float: right;color: #929292;}
+.blk_hotSearch{padding: 10px 0;border-bottom: 1px solid #e9e9e9;}
+.ul_hotSearch{margin-top: 12px;}
+.ul_hotSearch span{padding-right: 10px;display: inline-block;width: 18px;text-align: center;}
+.ul_hotSearch .top3{color: #cc0033;font-size: 12px;}
+
+.filterzz a{width: 100%;padding: 0;}
+ 
+.ul_right li .rssItem{display: block;width: 190px;overflow: hidden;text-overflow:ellipsis;white-space: nowrap;}
+ 
+.login-frame{float: right;line-height: 34px;height: 34px;margin-top: 13px;position: relative;}
+.login-frame a:link,.login-frame a:visited{color:#2c2c2c;}
+.login-frame .login-button{padding-left:4px;padding-right: 10px;}
+.login-frame .logined-wrap{float:left;}
+.login-frame .top-nr-welcome{display: block;padding-top: 4px;}
+.login-frame .username{padding-right:5px;}
+.login-frame .logout{padding-right:15px;}
+.login-frame a.username,.login-frame a.username:visited{color:#6c6c6c;}
+.login-frame a.login-button:hover,.login-frame a.username:hover,.login-frame a.logout:hover{color:#ab010e;text-decoration:none;}
+
+.login-frame a.username{display: block;background: url(/images/0422_zyc_search_newIcons.png) right -144px no-repeat;padding-right: 20px;height: 24px;line-height: 24px;border: 1px solid #f6f6f6;text-align: center;padding-left: 20px;color: #4141aa;width: 70px;white-space:nowrap; text-overflow:ellipsis; overflow:hidden}
+.login-frame a.username:hover{background-color: #fff;border: 1px solid #ededed;}
+.login-frame .logout{display: block;text-align: center;border: 1px solid #ededed;background:#f6f6f6;border-top:0px;height: 24px;line-height: 24px;padding-right: 20px;padding-left: 20px;width: 70px;position: absolute;}
+.login-frame .logout:hover{background: #fff;}
+.login-frame-on a.username{background-color: #fff;border: 1px solid #ededed;color: #4141aa;}
+.login-frame-on a.username:visited{color: #4141aa;}
+.login-frame-on .logout{color: #4141aa;}
+.login-frame-on .logout:visited{color: #4141aa;}
+.top{width: 1000px;padding-right: 0px;}
+.top2{zoom:1;}
+.top .r{margin-top: 13px;}
+.r a:link, .r a:visited{color: #3d3d3d;}
+.nav_inner{width: 730px;padding-left: 30px;}
+.nav .r_v2{margin-top: 0!important;}
+</style>
+<div class="nav clearfix">
+    <div class='nav_inner clearfix'>
+                
+            <div class='search_type clearfix'>
+                <a href="?q=%e6%b5%aa%e8%8e%8e%e8%82%a1%e4%bb%bd&amp;c=news&amp;by=&amp;from=&amp;t=&amp;sort=time&amp;range=all"  class="cur"   >全部</a>
+                <a href="?q=%e6%b5%aa%e8%8e%8e%e8%82%a1%e4%bb%bd&amp;c=news&amp;by=&amp;from=&amp;t=3_5_6&amp;sort=time&amp;range=all" suda-uatrack="key=SearchBody&value=includepic"  >含图片</a>
+                <a href="?q=%e6%b5%aa%e8%8e%8e%e8%82%a1%e4%bb%bd&amp;c=news&amp;by=&amp;from=&amp;t=2&amp;sort=time&amp;range=all" suda-uatrack="key=SearchBody&value=includevideo"  >含视频</a>
+            </div>
+            <div class="r_v2"> 
+                
+                
+                 
+                   按时间 
+                                  
+                
+                |
+                
+                    <a href="?q=%e6%b5%aa%e8%8e%8e%e8%82%a1%e4%bb%bd&amp;c=news&amp;by=&amp;from=&amp;t=&amp;sort=rel&amp;range=all" suda-uatrack="key=SearchBody&value=correlation">
+                    按相关度</a> 
+                                  
+                
+                |
+                
+                    <a href="?q=%e6%b5%aa%e8%8e%8e%e8%82%a1%e4%bb%bd&amp;c=news&amp;by=&amp;from=&amp;t=&amp;sort=count&amp;range=all" suda-uatrack="key=SearchBody&value=clicksort">
+                    按点击量</a> 
+                                  
+                
+            </div>
+        </div>
+        </div>
+    <div class="wrap" id="wrap">
+        <div class="main clearfix">    
+        <div class="result" id="result">
+        
+
+                
+                 <span id="correct_box"></span>
+
+<script type="text/javascript">
+<!--
+				  
+$(document).ready(function(){
+	var url = "/correct?q=%E6%B5%AA%E8%8E%8E%E8%82%A1%E4%BB%BD&c=news&from=&tpl_c=";
+	$('#correct_box').load(url); 
+});
+
+
+</script>
+
+                
+                
+        
+            
+                
+                    <div class="l_v2">找到相关新闻234篇</div>
+                
+            
+        
+
+             
+            <div class="mod_bar" >
+
+                
+                
+
+                
+                
+
+                    <script type="text/javascript">
+                        (function ($) {
+                            
+                            $.setCookie=function (opt) {
+                                var defaults={
+                                    name:'',
+                                    value:'',
+                                    expire:1
+                                }
+                                var options=$.extend(defaults,opt);
+                                var exdate=new Date();
+                                exdate.setDate(exdate.getDate()+options.expire);
+                                document.cookie=options.name+ "=" +escape(options.value)+((options.expire==null) ? "" : ";expires="+exdate.toGMTString());
+                            }
+
+                            $.getCookie=function (cName){
+                                if (document.cookie.length>0){
+                                    c_start=document.cookie.indexOf(cName + "=");
+                                    if (c_start!=-1){
+                                        c_start=c_start + cName.length+1;
+                                        c_end=document.cookie.indexOf(";",c_start);
+                                        if (c_end==-1) c_end=document.cookie.length;
+                                        return unescape(document.cookie.substring(c_start,c_end));
+                                    }
+                                }
+                                return '';
+                            }
+
+                            $('.tips_01 .close').click(function () {
+                                $('.tips_01').remove();
+                                
+                            });
+                            var is_show_tips=$.getCookie('tips_01');
+                            if (is_show_tips=='hide') {
+                                $('.tips_01').remove();
+                            }
+                        })(jQuery);
+                    </script>
+            </div>
+
+    
+        
+        
+        <div id="nav_result_container"></div>
+        
+
+        
+        
+            			<div class="box-result clearfix" data-sudaclick="blk_result_index_1">
+				<div class="r-info r-info2">
+					<h2><a href="https://k.sina.com.cn/article_1784473157_6a5ce64502001wec2.html?from=news&amp;subch=onews" target="_blank">2020年新疆维吾尔自治区劳动模范和先进工作者拟表彰人选名单</a> <span class="fgray_time">
+					中国新闻网 2020-06-17 12:43:45</span></h2>
+					<p class="content">  　　何爱英 女 锡伯族 1971年6月出生 群众 专科以下学历 新疆四方实业<font color="red">股份</font>有限公司制糖车间结晶工   　　木扎合买提·吐尔逊 男 维吾尔族 1971年2月出生 中共党员 大学专科学历 伊宁市城市建设有限责任公司市政部副部长   　　王小娣 女 汉族 1988年1月出生 中共党员</p>
+				</div>
+				
+			</div>
+
+        
+
+        
+        
+            			
+			<div class="box-result clearfix" data-sudaclick="blk_result_index_3">
+			
+					<h2><a href="https://finance.sina.com.cn/money/bond/research/2020-06-16/doc-iircuyvi8623240.shtml" target="_blank">负债率201％！英利进入司法重整 能否涅槃重生？</a>
+					<span class="fgray_time">新浪财经-自媒体综合 2020-06-15 18:06:20</span></h2>
+				<div class="r-img">
+					<a href="https://finance.sina.com.cn/money/bond/research/2020-06-16/doc-iircuyvi8623240.shtml" target="_blank" class="a-img"><img alt="" class="left_img" width="120" onload="a_r_i(this);" onerror="set_right_url3(this,'http:\/\/n.sinaimg.cn\/front20200615ac\/761\/w534h227\/20200615\/98f2-iuzasxs5511665.jpg');" src="http://n.sinaimg.cn/front20200615ac/761/w534h227/20200615/98f2-iuzasxs5511665.jpg" /></a>
+				</div>
+			
+				<div class="r-info">
+					<p class="content"> 　　来源： 小债看市    　　   　　 历时四年 债务重组  英利终于进入司法重整程序     　　  2011年以来 在行业景气度下降、国内外政策影响之下 光伏行业遭受重创 而英利前些年激进扩张的风险也逐渐暴露      　　  01  </p>
+				</div>
+			</div>
+			
+
+        
+
+        
+        
+            			<div class="box-result clearfix" data-sudaclick="blk_result_index_1">
+				<div class="r-info r-info2">
+					<h2><a href="https://finance.sina.com.cn/stock/relnews/hk/2020-06-15/doc-iircuyvi8497450.shtml" target="_blank">沪深股市交易提示（6月15日）</a> <span class="fgray_time">
+					同花顺金融研究中心 2020-06-15 08:21:36</span></h2>
+					<p class="content">、 实达集团 、S佳通   今日复牌提示：  益民集团 、 海南矿业 、 广百<font color="red">股份</font> 、ST加加、*ST目药、 数源科技  分红派息提示：     表格支持左右滑动     代码  股票简称  分红方案  股权登记日  除权除息日    000030  富奥<font color="red">股份</font>  10派1.70元  2020-6-15  2020-6-16    000417  合肥百货  10派0.8元  2020-6-15</p>
+				</div>
+				
+			</div>
+
+        
+
+        
+        
+            			<div class="box-result clearfix" data-sudaclick="blk_result_index_1">
+				<div class="r-info r-info2">
+					<h2><a href="https://k.sina.com.cn/article_1704103183_65928d0f02001rd7m.html?from=finance" target="_blank">6月15日沪深两市最新交易提示</a> <span class="fgray_time">
+					金融界网站 2020-06-15 07:56:00</span></h2>
+					<p class="content">每10股派发现金红利1.05元（含税:非限售条件的自然人股东和证券投资基金在公司派发股息红利时暂不扣缴个人所得税 每10股实际派发1.05元） 除权除息日：2020-06-19 </p>
+				</div>
+				
+			</div>
+
+        
+
+        
+        
+            			
+			<div class="box-result clearfix" data-sudaclick="blk_result_index_3">
+			
+					<h2><a href="https://finance.sina.com.cn/stock/relnews/cn/2020-06-15/doc-iirczymk7003631.shtml" target="_blank">章盟主、超短帮、小鳄鱼齐聚！王府井肥了谁？原创野马财</a>
+					<span class="fgray_time">野马财经 2020-06-15 01:53:33</span></h2>
+				<div class="r-img">
+					<a href="https://finance.sina.com.cn/stock/relnews/cn/2020-06-15/doc-iirczymk7003631.shtml" target="_blank" class="a-img"><img alt="" class="left_img" width="120" onload="a_r_i(this);" onerror="set_right_url3(this,'http:\/\/n.sinaimg.cn\/spider2020615\/112\/w640h272\/20200615\/6cd1-iuzasxs2685254.jpg');" src="http://n.sinaimg.cn/spider2020615/112/w640h272/20200615/6cd1-iuzasxs2685254.jpg" /></a>
+				</div>
+			
+				<div class="r-info">
+					<p class="content"> 原标题：章盟主、超短帮、小鳄鱼齐聚！王府井肥了谁？原创野马财    来源：野马财经       作者 | 蔡 真  来源 | 野马财经  小心 牛散游资出没！  今日收盘 王府井收获了它连续第三个涨停；而一个半月来 它的股价涨至近三倍</p>
+				</div>
+			</div>
+			
+
+        
+
+        
+        
+            			
+			<div class="box-result clearfix" data-sudaclick="blk_result_index_3">
+			
+					<h2><a href="https://finance.sina.com.cn/stock/stockptd/2020-06-14/doc-iircuyvi8437046.shtml" target="_blank">恒指本周下跌1.89% 机构：寻找跌出来的机会</a>
+					<span class="fgray_time">新浪财经-自媒体综合 2020-06-14 18:20:53</span></h2>
+				<div class="r-img">
+					<a href="https://finance.sina.com.cn/stock/stockptd/2020-06-14/doc-iircuyvi8437046.shtml" target="_blank" class="a-img"><img alt="" class="left_img" width="120" onload="a_r_i(this);" onerror="set_right_url3(this,'http:\/\/n.sinaimg.cn\/finance\/crawl\/200\/w550h450\/20200614\/e853-iuzasxs1771375.jpg');" src="http://n.sinaimg.cn/finance/crawl/200/w550h450/20200614/e853-iuzasxs1771375.jpg" /></a>
+				</div>
+			
+				<div class="r-info">
+					<p class="content">机会是在完成了过去差不多三个月的中短期反弹后 重拾延续中期弱势跌<font color="red">浪</font>的再次开端 而这个对于中短线策略操作部署来说 尤为关键重要 建议要慎重考虑做好准备    　　港股新经济公司正在风口之上   　　近期 随着网易、京东两大巨头回归港股</p>
+				</div>
+			</div>
+			
+
+        
+
+        
+        
+            			
+			<div class="box-result clearfix" data-sudaclick="blk_result_index_3">
+			
+					<h2><a href="https://k.sina.com.cn/article_1924738303_72b92cff01900s4in.html?from=news&amp;subch=onews" target="_blank">最新！宝安区2019年度346个商住小区评星结果出炉！</a>
+					<span class="fgray_time">宝安日报 2020-06-12 22:13:57</span></h2>
+				<div class="r-img">
+					<a href="https://k.sina.com.cn/article_1924738303_72b92cff01900s4in.html?from=news&amp;subch=onews" target="_blank" class="a-img"><img alt="" class="left_img" width="120" onload="a_r_i(this);" onerror="set_right_url3(this,'http:\/\/n.sinaimg.cn\/sinakd20200612s\/728\/w510h218\/20200612\/ea8c-iuvaazp7685036.jpg');" src="http://n.sinaimg.cn/sinakd20200612s/728/w510h218/20200612/ea8c-iuvaazp7685036.jpg" /></a>
+				</div>
+			
+				<div class="r-info">
+					<p class="content">  ]article_adlist--   都说“买房一阵子 物业一辈子”  物业 是现代小区必不可少的一部分  更关系到居民的生活质量 ]article_adlist--      那么 在过去的2019年    谁家小区“五星好评”    谁家小区“名列前茅”呢    小编这就来揭晓~！</p>
+				</div>
+			</div>
+			
+
+        
+
+        
+        
+            			
+			<div class="box-result clearfix" data-sudaclick="blk_result_index_3">
+			
+					<h2><a href="https://finance.sina.com.cn/roll/2020-06-12/doc-iirczymk6601760.shtml" target="_blank">章盟主、超短帮、小鳄鱼齐聚，王府井肥了谁？</a>
+					<span class="fgray_time">界面新闻 2020-06-12 11:50:00</span></h2>
+				<div class="r-img">
+					<a href="https://finance.sina.com.cn/roll/2020-06-12/doc-iirczymk6601760.shtml" target="_blank" class="a-img"><img alt="" class="left_img" width="120" onload="a_r_i(this);" onerror="set_right_url3(this,'http:\/\/n.sinaimg.cn\/sinakd2020612s\/110\/w580h330\/20200612\/fc19-iuvaazp5603439.jpg');" src="http://n.sinaimg.cn/sinakd2020612s/110/w580h330/20200612/fc19-iuvaazp5603439.jpg" /></a>
+				</div>
+			
+				<div class="r-info">
+					<p class="content"> 原标题：章盟主、超短帮、小鳄鱼齐聚 王府井肥了谁？    图片来源：Pexels    小心 牛散游资出没！   今日收盘 王府井收获了它连续第三个涨停；而一个半月来 它的股价涨至近三倍   6月9日晚</p>
+				</div>
+			</div>
+			
+
+        
+
+        
+        
+            			
+			<div class="box-result clearfix" data-sudaclick="blk_result_index_3">
+			
+					<h2><a href="https://k.sina.com.cn/article_6192937794_17120bb4202001am8t.html?from=finance" target="_blank">章盟主、超短帮、小鳄鱼齐聚，王府井肥了谁？</a>
+					<span class="fgray_time">界面 2020-06-12 11:50:00</span></h2>
+				<div class="r-img">
+					<a href="https://k.sina.com.cn/article_6192937794_17120bb4202001am8t.html?from=finance" target="_blank" class="a-img"><img alt="" class="left_img" width="120" onload="a_r_i(this);" onerror="set_right_url3(this,'http:\/\/n.sinaimg.cn\/sinakd2020612s\/110\/w580h330\/20200612\/fc19-iuvaazp5603439.jpg');" src="http://n.sinaimg.cn/sinakd2020612s/110/w580h330/20200612/fc19-iuvaazp5603439.jpg" /></a>
+				</div>
+			
+				<div class="r-info">
+					<p class="content"> 章盟主、超短帮、小鳄鱼齐聚 王府井肥了谁？  牛散精准潜伏 游资轮番助力    野马财经     图片来源：Pexels    小心 牛散游资出没！   今日收盘 王府井收获了它连续第三个涨停；而一个半月来 它的股价涨至近三倍  </p>
+				</div>
+			</div>
+			
+
+        
+
+        
+        
+            			
+			<div class="box-result clearfix" data-sudaclick="blk_result_index_3">
+			
+					<h2><a href="https://tech.sina.com.cn/roll/2020-06-12/doc-iirczymk6601781.shtml" target="_blank">章盟主、超短帮、小鳄鱼齐聚，王府井肥了谁？</a>
+					<span class="fgray_time">界面新闻 2020-06-12 11:50:00</span></h2>
+				<div class="r-img">
+					<a href="https://tech.sina.com.cn/roll/2020-06-12/doc-iirczymk6601781.shtml" target="_blank" class="a-img"><img alt="" class="left_img" width="120" onload="a_r_i(this);" onerror="set_right_url3(this,'http:\/\/n.sinaimg.cn\/sinakd2020612s\/110\/w580h330\/20200612\/fc19-iuvaazp5603439.jpg');" src="http://n.sinaimg.cn/sinakd2020612s/110/w580h330/20200612/fc19-iuvaazp5603439.jpg" /></a>
+				</div>
+			
+				<div class="r-info">
+					<p class="content"> 原标题：章盟主、超短帮、小鳄鱼齐聚 王府井肥了谁？    图片来源：Pexels    小心 牛散游资出没！   今日收盘 王府井收获了它连续第三个涨停；而一个半月来 它的股价涨至近三倍   6月9日晚</p>
+				</div>
+			</div>
+			
+
+        
+
+        
+
+
+        
+        
+            
+            <table cellspacing="0" style="margin:0 auto;"><tr><td>
+                <div class="pagebox" id="_function_code_page">
+                    
+     
+         
+              <b><span class= "pagebox_cur_page">1</span></b>
+         
+     
+         
+              <a href="?q=%e6%b5%aa%e8%8e%8e%e8%82%a1%e4%bb%bd&amp;c=news&amp;from=&amp;col=&amp;range=all&amp;source=&amp;country=&amp;size=10&amp;stime=&amp;etime=&amp;time=&amp;dpc=0&amp;a=&amp;ps=0&amp;pf=0&amp;page=2" title = "第2页" onlick = "_S_uaTrack('SearchFlip','Page2');">2</a>
+         
+     
+         
+              <a href="?q=%e6%b5%aa%e8%8e%8e%e8%82%a1%e4%bb%bd&amp;c=news&amp;from=&amp;col=&amp;range=all&amp;source=&amp;country=&amp;size=10&amp;stime=&amp;etime=&amp;time=&amp;dpc=0&amp;a=&amp;ps=0&amp;pf=0&amp;page=3" title = "第3页" onlick = "_S_uaTrack('SearchFlip','Page3');">3</a>
+         
+     
+         
+              <a href="?q=%e6%b5%aa%e8%8e%8e%e8%82%a1%e4%bb%bd&amp;c=news&amp;from=&amp;col=&amp;range=all&amp;source=&amp;country=&amp;size=10&amp;stime=&amp;etime=&amp;time=&amp;dpc=0&amp;a=&amp;ps=0&amp;pf=0&amp;page=4" title = "第4页" onlick = "_S_uaTrack('SearchFlip','Page4');">4</a>
+         
+     
+         
+              <a href="?q=%e6%b5%aa%e8%8e%8e%e8%82%a1%e4%bb%bd&amp;c=news&amp;from=&amp;col=&amp;range=all&amp;source=&amp;country=&amp;size=10&amp;stime=&amp;etime=&amp;time=&amp;dpc=0&amp;a=&amp;ps=0&amp;pf=0&amp;page=5" title = "第5页" onlick = "_S_uaTrack('SearchFlip','Page5');">5</a>
+         
+     
+         
+              <a href="?q=%e6%b5%aa%e8%8e%8e%e8%82%a1%e4%bb%bd&amp;c=news&amp;from=&amp;col=&amp;range=all&amp;source=&amp;country=&amp;size=10&amp;stime=&amp;etime=&amp;time=&amp;dpc=0&amp;a=&amp;ps=0&amp;pf=0&amp;page=6" title = "第6页" onlick = "_S_uaTrack('SearchFlip','Page6');">6</a>
+         
+     
+         
+              <a href="?q=%e6%b5%aa%e8%8e%8e%e8%82%a1%e4%bb%bd&amp;c=news&amp;from=&amp;col=&amp;range=all&amp;source=&amp;country=&amp;size=10&amp;stime=&amp;etime=&amp;time=&amp;dpc=0&amp;a=&amp;ps=0&amp;pf=0&amp;page=7" title = "第7页" onlick = "_S_uaTrack('SearchFlip','Page7');">7</a>
+         
+     
+         
+              <a href="?q=%e6%b5%aa%e8%8e%8e%e8%82%a1%e4%bb%bd&amp;c=news&amp;from=&amp;col=&amp;range=all&amp;source=&amp;country=&amp;size=10&amp;stime=&amp;etime=&amp;time=&amp;dpc=0&amp;a=&amp;ps=0&amp;pf=0&amp;page=8" title = "第8页" onlick = "_S_uaTrack('SearchFlip','Page8');">8</a>
+         
+     
+         
+              <a href="?q=%e6%b5%aa%e8%8e%8e%e8%82%a1%e4%bb%bd&amp;c=news&amp;from=&amp;col=&amp;range=all&amp;source=&amp;country=&amp;size=10&amp;stime=&amp;etime=&amp;time=&amp;dpc=0&amp;a=&amp;ps=0&amp;pf=0&amp;page=9" title = "第9页" onlick = "_S_uaTrack('SearchFlip','Page9');">9</a>
+         
+     
+         
+              <a href="?q=%e6%b5%aa%e8%8e%8e%e8%82%a1%e4%bb%bd&amp;c=news&amp;from=&amp;col=&amp;range=all&amp;source=&amp;country=&amp;size=10&amp;stime=&amp;etime=&amp;time=&amp;dpc=0&amp;a=&amp;ps=0&amp;pf=0&amp;page=10" title = "第10页" onlick = "_S_uaTrack('SearchFlip','Page10');">10</a>
+         
+     
+
+          <a href="?q=%e6%b5%aa%e8%8e%8e%e8%82%a1%e4%bb%bd&amp;c=news&amp;from=&amp;col=&amp;range=all&amp;source=&amp;country=&amp;size=10&amp;stime=&amp;etime=&amp;time=&amp;dpc=0&amp;a=&amp;ps=0&amp;pf=0&amp;page=2" title = "下一页" onlick = "_S_uaTrack('SearchFlip','Page2');">下一页</a>
+
+                </div>
+            </td></tr></table>
+            
+            
+<div class="search-form search-form-bot">
+	
+	
+	<form method="get" action="/" onsubmit="return submit_form(this)">
+		
+		<input type="text" name="q" maxlength="100" value="浪莎股份 " class="ipt-00" />
+
+		<input type="submit" value=""
+			   class="ipt-03 ipt-03b ipt-03_news" hidefocus="true"
+		suda-uatrack="key=SearchBody&value=searchbelow" />
+	</form>
+	
+</div>
+
+
+        
+    </div>
+<script type="text/javascript">
+$(function(){$("div.box-result").mouseover(function(){$(this).find('div.wbShareBtn').show();}).mouseout(function(){$(this).find('div.wbShareBtn').hide();});});
+</script>
+        <div class="sRight">
+        
+                <div class='blk_right'>
+                
+                    <div class='blk_myRss'>
+                        <div class='br_title clearfix'><h4>我的订阅词</h4><a href="javascript:;" class='rss_rssCur'>订阅当前词</a></div>
+                        <ul class='ul_right' id='rss01'></ul>
+                    </div>
+                
+                
+                <div class='blk_myHis'>
+                    <div class='br_title clearfix'><h4>最近搜过</h4><a class='his_fold' href="javascript:;">展开收起</a><a href="javascript:;" class='his_clear'>全部清除</a></div>
+                    <ul class='ul_right' id='his01'></ul>
+                </div>
+                
+                
+                <div class='blk_hotSearch'>
+                    <div class='br_title clearfix'><h4>大家都在搜</h4></div>
+                    <ul class='ul_hotSearch ul_right' id='hotSearch01'>
+
+                        
+                    </ul>
+                </div>
+                
+                
+                <div id="area_news" class="blk_area_news clearfix">
+                    <div class="br_title clearfix"><h4>各地新闻</h4></div>
+                    <ul id="ul_area_news" class="ul_area_news"></ul>
+                    <a class="area_news_more" href="url" target="_blank">更多新闻<span>&hellip;</span></a>
+                </div>
+                <style type="text/css">
+                .blk_area_news{display:none;padding:10px 0;}
+                .ul_area_news{margin:12px 0 0 11px;}
+                .ul_area_news li{margin-bottom:8px;}
+                .ul_area_news li p{line-height:20px;font-size:13px;}
+                .area_info{color:#7c7c7c;font-size:12px;}
+                .news_area{float:left;}
+                .news_time{float:right;}
+                .area_news_more{float:right;height:23px;line-height:23px;padding:0 10px;font-size:13px;color:#000;}
+                .area_news_more span{margin-left:3px;font-weight:bold;}
+                .area_news_more:link,.area_news_more:visited{text-decoration:none;}
+                .area_news_more:hover{background:#e9eff5;text-decoration:none;}
+                .area_news_more:hover span{color:#7c7c7c;}
+                </style>
+                
+                </div>
+                <script type="text/javascript">
+                jQuery(document).ready(function(){
+                    
+                    setAreaNews();
+                    toDfzResult();
+                    
+                    bindLiOver('hotSearch01');
+                })
+                
+                function setAreaNews(){
+                    var sw = document.getElementById('keyword').value,
+                        rg = GetQueryString('range'),
+                        $areaNews = jQuery('#area_news'),
+                        $areaNewsUl = jQuery('#ul_area_news');
+                    jQuery.ajax({
+                        url:'http://api.search.sina.com.cn/?q='+encodeURIComponent(sw)+'&range='+rg+'&c=news&sort=time&ie=utf-8&from=dfz_api',
+                        async:false,
+                        type:'GET',
+                        data:null,
+                        dataType:'jsonp',
+                        success:function(data){
+                            var dataList = data.result.list,
+                                dataListLen = dataList.length;
+                            var len = dataListLen<=6?dataListLen:6;
+                            if(!len){
+                                $areaNews.hide();
+                                return; 
+                            }
+                            $areaNews.show();
+                            for(var i=0;i<len;i++){
+                                var li='<li><p><a href="'+unescape(dataList[i].url)+'" target="_blank">'+unescape(dataList[i].title)+'</a></p><div class="area_info clearfix"><span class="news_area">'+unescape(dataList[i].media?dataList[i].media:(dataList[i].column_infos.name?dataList[i].column_infos.name:''))+'</span><span class="news_time">'+dataList[i].datetime+'</span></div></li>';
+                                $areaNewsUl.append(li);
+                            }
+                        },
+                        error:function(){
+
+                        }
+                    })                    
+                }
+                function toDfzResult(){
+                    var reg = new RegExp("(^|&)from=","i"),
+                        base = window.location.href.split('?')[0],
+                        urlsearch=window.location.search;
+                    var href = base + (reg.test(urlsearch)?urlsearch.replace('from='+GetQueryString('from'),'from=dfz_api'):urlsearch+'&from=dfz_api');
+                    jQuery(".area_news_more").attr('href',href);
+                    return false;
+                }
+                
+                var bindLiOver = function(ulId){
+                    jQuery('#'+ulId+' li').mouseenter(function(){
+                        jQuery('#'+ulId+' li').removeClass('cur')
+                        jQuery(this).addClass('cur');
+                    });
+                    jQuery('#'+ulId+' li').mouseleave(function(){
+                        jQuery('#'+ulId+' li').removeClass('cur')
+                    });
+                }
+                function GetQueryString(name){
+                     var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
+                     var r = window.location.search.substr(1).match(reg);
+                     if(r!=null) { return  r[2]; } 
+                     return null;
+                }
+                function toRssUrl(kw){
+                    var curKey = GetQueryString('q');
+                    var loc  = location.href.replace(curKey,encodeURIComponent(kw));
+                    if(loc.indexOf("ie=utf-8") == -1)
+                    {
+                        loc += "&ie=utf-8";
+                    }
+                    location.href = loc;
+                }
+                var rssZ = function(){};
+                rssZ.prototype = {
+                    ulId:'',
+                    init:function(id){
+                        this.ulId = id;
+                        this.getRss();
+                    },
+                    creatDom:function(data){
+                        var domStr='';
+                        var domArr = [];
+                        for(var i=0;i<data.length;i++){
+                            var itemId = data[i].id;
+                            var itemkey = data[i].skey;
+                            var itemStr = '<li><a href="javascript:;" class="liItem rssItem" data-qstr="'+itemkey+'">'+itemkey+'</a><a data-rssid="'+itemId+'" class="delItem rss_removeRss" href="javascript:;">取消订阅</a></li>';
+                            domArr.push(itemStr);
+                        }
+                        domStr = domArr.join('');
+                        return domStr;
+
+                    },
+                    
+                    getRss:function(){
+                        var _self = this;
+                        jQuery.ajax({
+                            url:'http://search.sina.com.cn?c=subscribe&a=getkeys&stype=1&format=json',
+                            async:false,
+                            type:'GET',
+                            data:null,
+                            dataType:'jsonp',
+                            success:function(data){
+                                var res = data.result;
+                                if(res.status.code==0){
+                                    jQuery('#'+_self.ulId).html(_self.creatDom(res.data));
+                                    _self.bindLi();
+                                }else{
+                                    
+                                }
+                            },
+                            error:function(){
+                                
+                            }
+                        })
+                        
+                    },
+                    addRss:function(kw){
+                        var _self = this;
+                        jQuery.ajax({
+                            url:'http://search.sina.com.cn?c=subscribe&a=addkey&stype=1&skey='+kw+'&format=json',
+                            async:false,
+                            type:'GET',
+                            data:null,
+                            dataType:'jsonp',
+                            success:function(data){
+                                var res = data.result;
+                                if(res.status.code==0){
+                                    _self.getRss();
+                                }else{
+                                    alert(res.status.msg)
+                                }
+                            },
+                            error:function(){
+                                
+                            }
+                        })
+                    },
+                    delRss:function(id){
+                        var _self = this;
+                        jQuery.ajax({
+                            url:'http://search.sina.com.cn?c=subscribe&a=delkey&stype=1&id='+id+'&format=json',
+                            async:false,
+                            type:'GET',
+                            data:null,
+                            dataType:'jsonp',
+                            success:function(data){
+                                var res = data.result;
+                                if(res.status.code==0){
+                                }else{
+                                    alert(res.status.msg)
+                                }
+                            },
+                            error:function(){
+                                
+                            }
+                        })
+                    },
+                    bindLi:function(){
+                        var _self = this;
+                        bindLiOver(_self.ulId);
+                        jQuery('#'+_self.ulId+' .rss_removeRss').unbind("click").click(function(){
+                            var itemId = jQuery(this).attr('data-rssid');
+                            _self.delRss(itemId);
+                            jQuery(this).parent().remove();
+                        });
+                        jQuery('#'+_self.ulId+' .liItem').unbind("click").click(function(){
+                            toRssUrl(jQuery(this).attr('data-qstr'));
+                        });
+                        jQuery('.rss_rssCur').unbind("click").click(function(){
+                            var keyword = GetQueryString('q');
+                            if(keyword!=null&&keyword!='')
+                            _self.addRss(keyword);
+                        });
+
+                    }
+                };
+                
+                var cookie = (function(){
+                    
+
+                    var co={};
+                    co.getCookie = function (name) {
+                        var start = document.cookie.indexOf(name + "=");
+                        var len = start + name.length + 1;
+                        if ((!start) && (name != document.cookie.substring(0, name.length))) {
+                            return null;
+                        }
+                        if (start == -1) return null;
+                        var end = document.cookie.indexOf(';', len);
+                        if (end == -1) end = document.cookie.length;
+                        return unescape(document.cookie.substring(len, end));
+
+                    };
+
+                    
+
+                    co.setCookie = function (name, value, expires, path, domain, secure) {
+                        var today = new Date();
+                        today.setTime(today.getTime());
+                        if (expires) {
+                            expires = expires * 1000 * 60 * 60 * 24;
+                        }
+                        var expires_date = new Date(today.getTime() + (expires));
+                        document.cookie = name + '=' + escape(value) +
+                            ((expires) ? ';expires=' + expires_date.toGMTString() : '') +((path) ? ';path=' + path : '') +((domain) ? ';domain=' + domain : '') +((secure) ? ';secure' : '');
+                    };
+
+                    
+
+                    co.deleteCookie = function(name, path, domain) {
+                        if (co.getCookie(name)) document.cookie = name + '=' +((path) ? ';path=' + path : '') +((domain) ? ';domain=' + domain : '') +
+                        ';expires=Thu, 01-Jan-1970 00:00:01 GMT';
+                    };
+                    return co;
+                })();
+                var splitStr = '|sEaRchHIS|';
+                
+                (function(){
+                    
+                    var creatDom = function(data){
+                        var domStr='';
+                        var domArr = [];
+                        for(var i=0;i<data.length;i++){
+                            if(data[i]=='')return;
+                            var itemStr = '<li><a href="javascript:;" class="liItem rssItem" data-qstr="'+data[i]+'">'+data[i]+'</a><a class="delItem his_removeHis" href="javascript:;">删除</a></li>';
+                            domArr.push(itemStr);
+                        }
+                        domStr = domArr.join('');
+                        return domStr;
+
+                    };
+                    if(getSearch()[1].length>0){
+                        jQuery('#his01').html(creatDom(getSearch()[1]));
+                        bindLiOver('his01');
+                        jQuery('#his01 .his_removeHis').click(function(){
+                            var kw = jQuery(this).prev().html();
+                            removeSearch(kw);
+                            jQuery(this).parent().remove();
+                        });
+                        jQuery('#his01 .liItem').click(function(){
+                            toRssUrl(jQuery(this).attr('data-qstr'));
+                        });
+                        jQuery('.his_clear').click(function(){
+                            jQuery('#his01').html('');
+                            cookie.deleteCookie('mYSeArcH','/', 'search.sina.com.cn');
+                        });
+                        jQuery('.his_fold').click(function(){
+                            jQuery('.his_fold').toggleClass('his_unfold');
+                            jQuery('#his01').toggle();
+                        })
+
+                    }
+                })();
+                function stripscript(s) { 
+                    var pattern = new RegExp("[%--`~!@#$^&*()=|{}':;',\\[\\].<>/?~！@#……&*（）|{}‘；：”“'。，、？]")        
+                    var rs = ""; 
+                    for (var i = 0; i < s.length; i++) { 
+                     rs = rs+s.substr(i, 1).replace(pattern, ''); 
+                    }
+                    return rs;
+                }
+                function getSearch(){
+                    var n = 15;
+                    var hisStr='',hisArr=[],hisArrRes=[];
+                    hisStr = cookie.getCookie('mYSeArcH');
+                    if(hisStr!=null){
+                        hisArr = hisStr.split(splitStr);
+                        if(hisArr.length>n){
+                            for(var i=0;i<n;i++){
+                                hisArrRes.push(hisArr[hisArr.length-1-i]);
+                            }
+                        }else{
+                            for(var i=hisArr.length-1;i>-1;i--){
+                                hisArrRes.push(hisArr[i]);
+                            }
+                        }
+                    }else{
+                        hisStr='';
+                    }
+                    return [hisStr,hisArrRes];
+                }
+                var addSearch = function(kw){
+                    kw=stripscript(kw);
+                    var checkArry = function(a,arrayA){
+                        var res = true;
+                        for(var i =0;i<arrayA.length;i++){
+                            if(a==arrayA[i]){
+                                res = false;
+                            }
+                        }
+                        return res;
+                    }
+                    if(checkArry(kw,getSearch()[1])){
+                        var tempStr = getSearch()[0]==''?kw:getSearch()[0]+splitStr+kw;
+                        cookie.setCookie('mYSeArcH', tempStr, 43800, '/', 'search.sina.com.cn');
+                    }   
+                }
+                function removeSearch(kw){
+                    var searchStr = getSearch()[0];
+                    if(searchStr!=''&&searchStr.indexOf(splitStr)==-1&&searchStr.indexOf(kw)!=-1){
+                        searchStr = searchStr.replace(kw,'');
+                    }
+                    if(searchStr.indexOf(kw+splitStr)!=-1){
+                        searchStr=searchStr.replace(kw+splitStr,'');        
+                    }
+                    cookie.setCookie('mYSeArcH', searchStr, 43800, '/', 'search.sina.com.cn');      
+                }
+                </script>
+
+
+
+
+
+            </div>
+            
+        </div> 
+</div> 
+
+<style type="text/css">
+.scrollDiv{bottom:185px;right:0;width: 14px;font-size: 14px;background: #e4e4e4;border-radius: 5px 0 0 5px;padding: 12px 7px;}
+.scrollDiv a{font-size: 14px;color: #5d5d5d;font-family: "Microsoft Yahei","微软雅黑","SimSun","宋体","Arial Narrow",serif;}
+.scrollDiv a:visited{color: #5d5d5d;text-decoration: none;}
+.scrollDiv a:hover{color: #ff8400;text-decoration: none;}
+</style>
+<div id="scrollDiv" class='scrollDiv'>
+<a href="http://comment5.news.sina.com.cn/comment/skin/feedback.html?channel=ly&newsid=231" target='_blank'>我要反馈</a>
+</div>
+<script type="text/javascript">
+~function(){var a="scrollDiv";var d=document.getElementById(a);function c(g,e,f){if(g.attachEvent){g.attachEvent("on"+e,f);}else{g.addEventListener(e,f,false);}}function b(){var g=navigator.appVersion.indexOf("MSIE 6")!=-1?true:false;var e=0,f=0;if(g){d.style.position="absolute";}else{d.style.position="fixed";}}c(window,"scroll",b);c(window,"resize",b);b();}();
+</script>
+
+
+<style type="text/css">
+.side-btns-wrap{width:25px;right: 0;position: fixed;bottom: 150px; _position:absolute;_top:expression(documentElement.scrollTop + documentElement.clientHeight-120);z-index:100;visibility: hidden;overflow: hidden;}
+.side-btns-top{width:25px;}
+.side-btns-top a{display: block; line-height:500px; cursor:pointer;}
+.side-btns-top-btn { height: 25px; width: 25px;background:url(http://search.sina.com.cn/images/roll.png) no-repeat 0 0px;overflow:hidden;}
+.side-btns-top-btn:hover {filter:Alpha(Opacity=80); opacity:.8;}
+.side-btns-top-close{width: 50px;height: 18px;margin-top:1px;background: url(http://i3.sinaimg.cn/dy/deco/2013/0913/close2.png) no-repeat;display: none!important;}
+.side-btns-wrap-resize{display: none !important;}
+</style>
+ 
+<script type="text/javascript">
+
+(function(aClz,maxSize,co) {
+var doc = document, side = (function() {var body = doc.body, firstChild = body.firstChild, wrap = doc.createElement('div'); wrap.className = 'side-btns-wrap'; wrap.innerHTML = '<div class="side-btns-top"><a class="side-btns-top-btn" href="javascript:;" title="返回顶部" suda-uatrack="key=channel_index_up_to_top&value=news" hidefocus>返回顶部</a><a class="side-btns-top-close" href="javascript:;" title="关闭" suda-uatrack="key=channel_index_up_to_top&value=news_close" hidefocus>关闭</a></div>'; firstChild ? firstChild.parentNode.insertBefore(wrap, firstChild) : body.appendChild(wrap); return wrap; })(), clz = side.className, nClz = clz + ' ' + aClz, cookieName = co.name || 'close_techidxtop', domain = co.domain || 'news.sina.com.cn', path = co.path|| '/', lnks = side.getElementsByTagName('a'), btn = lnks[0], close = lnks[1], addEvent = function(o, s, fn) {if (o.attachEvent) {o.attachEvent('on' + s, fn); } else {o.addEventListener(s, fn, false); } return o; }, toggle = function() {var top = doc.documentElement.scrollTop || doc.body.scrollTop, visible = (top > 0 ? 'visible' : 'hidden'); side.style.visibility = visible; }, sideToggle = function(dis) {side.style.display = dis; }, resize = function() {var body = doc.documentElement || doc.body; if (!body) {return; } var width = body.offsetWidth; if (width < maxSize) {side.className = nClz; } else {side.className = clz; } }, toTop = function() {doc.documentElement.scrollTop = 0; doc.body.scrollTop = 0; }; var cookie = (function() {var co = {}; co.getCookie = function(name) {name = name.replace(/([\.\[\]\$])/g, '\\\$1'); var rep = new RegExp(name + '=([^;]*)?;', 'i'); var co = document.cookie + ';'; var res = co.match(rep); if (res) {return unescape(res[1]) || ""; } else {return ""; } }; co.setCookie = function(name, value, expire, path, domain, secure) {var cstr = []; cstr.push(name + '=' + escape(value)); if (expire) {var dd = new Date(); var expires = dd.getTime() + expire * 3600000; dd.setTime(expires); cstr.push('expires=' + dd.toGMTString()); } if (path) {cstr.push('path=' + path); } if (domain) {cstr.push('domain=' + domain); } if (secure) {cstr.push(secure); } document.cookie = cstr.join(';'); }; co.deleteCookie = function(name) {document.cookie = name + '=;' + 'expires=Fri, 31 Dec 1999 23:59:59 GMT;'; }; return co; })(); var display = cookie.getCookie(cookieName); if(display!=''){sideToggle('none'); return; } sideToggle('block'); resize(); addEvent(window, 'resize', resize); addEvent(close,'click',function(e){sideToggle('none'); cookie.setCookie(cookieName,'1',15*24,path,domain); if(window.event){window.event.returnValue = false; }else{e.preventDefault(); } }); addEvent(window, 'scroll', toggle); addEvent(btn, 'click', toTop); })('side-btns-wrap-resize',1110,{
+name:'close_techidxtop', 
+domain:'finance.sina.com.cn' 
+});
+</script>
+ 
+ 
+    
+
+
+    
+<script type="text/javascript">
+
+var iPadPage = {
+	    nextPage : '', 
+	    prePage : '', 
+	   pageObj : document.getElementById('wrap'), 
+	   x : 0,
+	   y : 0,
+	   lastX : 0,
+	   lastY : 0,
+	   status : 'ok',
+	   parentObj : null,
+	   init : function(){
+			if(!/\((iPhone|iPad|iPod)/i.test(navigator.userAgent)){return};
+			var tempThis = this;
+			this.addEvent(this.pageObj,'touchstart',function(e){tempThis._touchstart(e)});
+			this.addEvent(this.pageObj,'touchmove',function(e){tempThis._touchmove(e)});
+			this.addEvent(this.pageObj,'touchend',function(e){tempThis._touchend(e)});
+	   },
+_touchstart : function(e){
+		      this.x = e.touches[0].pageX;
+		      this.scrollX = window.pageXOffset;
+		      this.scrollY = window.pageYOffset; 
+	      },
+_touchmove : function(e){
+		     if(e.touches.length > 1){ 
+			     this.status = 'ok';
+			     return;
+		     };
+		     this.lastX = e.touches[0].pageX;
+		     var cX = this.x - this.lastX;
+
+		     if(cX<0){
+			     if(!this.prePage){
+				     return;
+			     };
+		     };
+		     if(this.status == 'ok'){
+			     if(this.scrollY == window.pageYOffset && this.scrollX == window.pageXOffset && Math.abs(cX)>50){ 
+				     if(cX>0){
+					     if(!this.nextPage){
+						     return;
+					     };
+				     };
+				     if(!this.parentObj){
+					     this.parentObj = document.createElement('div');
+					     this.parentObj.style.width = this.pageObj.offsetWidth + 'px';
+					     this.parentObj.style.overflow = 'hidden';
+						 this.pageObj.style.width = this.pageObj.offsetWidth + 'px';
+					     this.pageObj.style.overflow = 'hidden';
+					     this.pageObj.parentNode.insertBefore(this.parentObj,this.pageObj);
+					     this.parentObj.appendChild(this.pageObj);
+				     }
+				     this.status = 'touch';
+			     }else{
+				     return;
+			     };
+		     };
+
+		     this.pageObj.style.marginLeft = - cX + 'px';
+		     e.preventDefault();
+	     },
+_touchend : function(e){
+		    if(this.status != 'touch'){return};
+		    this.status = 'ok';
+		    var cX = this.x - this.lastX;
+		    var tempThis = this;
+		    if(this.alertStatus == 'open'){this.hideAlert()};
+		    this.actPX(this.pageObj.style,'marginLeft',this.pageObj.offsetLeft,cX>0?-(this.parentObj.offsetWidth+2):this.parentObj.offsetWidth+2,200,function(){
+				    if(cX<0){
+				    if(tempThis.prePage){window.location.href = tempThis.prePage}else{tempThis.pageObj.style.marginLeft = 0};
+				    }else{
+				    if(tempThis.nextPage){window.location.href = tempThis.nextPage}else{tempThis.pageObj.style.marginLeft = 0};
+				    };
+				    });
+	    },
+actPX : function(obj,key,start,end,speed,endFn,u){
+		if(typeof(u) == 'undefined'){u = 'px'};
+		clearTimeout(obj['_extend_actPX' + key.replace(/\-\.\=/,'_') + '_timeOut']);
+		if(start > end){
+			speed = - Math.abs(speed);
+		}else{
+			speed = Math.abs(speed);
+		};
+		var now = start;
+		var length = end - start;
+		obj['_extend_actPX' + key.replace(/\-\.\=/,'_') + '_timeOut'] = setTimeout(function(){
+				now += speed;
+				
+				var space = end - now;
+				if(start < end){
+				if(space < length/3){
+				speed = Math.ceil(space/3);
+				};
+				if(space <= 0){ 
+				obj[key] = end + u;
+				if(endFn){endFn()};
+				return;
+				};
+				}else{
+				if(space > length/3){
+				speed = Math.floor(space/3);
+				};
+				if(space >= 0){ 
+				obj[key] = end + u;
+				if(endFn){endFn()};
+				return;
+				};
+				};
+
+				obj[key] = now + u;
+				obj['_extend_actPX' + key.replace(/\-\.\=/,'_') + '_timeOut'] = setTimeout(arguments.callee,20);
+
+		},20);
+	},
+addEvent : function(obj,eventType,func){if(obj.attachEvent){obj.attachEvent("on" + eventType,func);}else{obj.addEventListener(eventType,func,false)}}
+};
+~function(){
+	var pageDiv = document.getElementById('_function_code_page');
+	if(pageDiv!=null) {
+		var pageList = pageDiv.getElementsByTagName('a');
+		for(var i=0;i<pageList.length;i++){
+			if(pageList[i].title == '上一页'){iPadPage.prePage = pageList[i].href;};
+			if(pageList[i].title == '下一页'){iPadPage.nextPage = pageList[i].href;};
+		};
+	}
+}();
+iPadPage.init();
+</script>
+
+
+
+    
+
+
+    
+
+<script type="text/javascript" src="http://www.sinaimg.cn/unipro/pub/suda_m_v629.js"></script>
+<script type="text/javascript">suds_init(1586,20.00,965,2);</script>
+
+
+    
+<script type="text/javascript" charset="utf-8" src="http://www.sinaimg.cn/unipro/pub/suda_s_v851c.js"></script>
+
+    <div id="footer" class="foot">
+	<a href="javascript:void(0);" onclick="setHomePage();">设为首页</a> - <a href="http://comment4.news.sina.com.cn/comment/skin/feedback.html?channel=ly&newsid=231" target="_blank">意见反馈</a> - <a href="http://corp.sina.com.cn/chn/" target="_blank">新浪简介</a> - <a href="http://corp.sina.com.cn/eng/" target="_blank">About Sina</a>
+	</br>
+	&copy;2020 - <a href="http://corp.sina.com.cn/chn/sina_priv.html" target="_blank">隐私保护 </a> -  <a href="http://corp.sina.com.cn/chn/sina_intr.html" target="_blank">新浪公司</a> <a href="http://corp.sina.com.cn/chn/copyright.html" target="_blank">版权所有</a> <a href="http://www.miibeian.gov.cn/" target="_blank">京ICP证000007 <img src="images/logo_homeIcon.png" width="13" height="17" class="Icon01" /></a>
+	<br/>
+	<a href="http://news.sina.com.cn/c/2013-01-29/171826152112.shtml" target="_blank">共同抵制网络低俗色情信息</a> - 文明办网文明上网举报电话：010-82615762
+</div>
+
+
+<script src="http://i.sso.sina.com.cn/js/ssologin.js"></script>
+<script type="text/javascript" src="http://i.sso.sina.com.cn/js/user_panel.js" charset="utf-8"></script>
+<style type="text/css">
+.outlogin_layerbox_bylx{top: 55px!important;border-color:#b9cdf0;}
+.outlogin_layerbox_bylx .layerbox_left a.login_btn{background: #3f7bc1;}
+.outlogin_layerbox_bylx .layerbox_left a.forget_Pwd{color: #3f7bc1;}
+.outlogin_layerbox_bylx .layerbox_left a.register_lnk{color:#3f7bc1;}
+</style>
+ 
+ <script type="text/javascript">
+ 
+    (function(){
+        var userPanel = window.SINA_USER_PANEL;
+        var panelSTK = userPanel.STK;
+        var rss01 = new rssZ();
+        var loginBtn = $("#JS_Login_Btn");
+        var userInfoTpl='<span class="top-nr-welcome"><a href="http://login.sina.com.cn/member/my.php" target="_blank" class="link-FF8400 username">{name}</a><a href="javascript:;" class="logout" style="display:none">退出</a></span>';
+        var loginWrapper=$("#JS_Logined_Wrap");
+        loginWrapper.delegate('.top-nr-welcome','mouseenter',function(){
+            $('.top-nr-welcome').toggleClass('login-frame-on');
+            $('.logout').toggle();
+        });
+        loginWrapper.delegate('.top-nr-welcome','mouseleave',function(){
+            $('.top-nr-welcome').toggleClass('login-frame-on');
+            $('.logout').toggle();
+        });
+        loginWrapper.delegate('.logout','click',function(){
+            SINA_OUTLOGIN_LAYER.logout();
+        });
+                var blk_rss = jQuery('.blk_myRss');
+        if(userPanel){
+            panelSTK.Ready(function(){
+                userPanel.set('outloginLayer', {
+                    ready : function(){
+                         var loginLayer = window.SINA_OUTLOGIN_LAYER;
+                            var logincookie = loginLayer&&loginLayer.getSinaCookie();
+                            if(logincookie){
+                                rss01.init('rss01');
+                                blk_rss.show();
+                            }else{
+                                blk_rss.hide();
+                            }
+                        if(loginLayer){
+                            loginLayer.set('sso', {
+                                entry : 'finance'
+                            }).init();
+
+                            panelSTK.addEvent(panelSTK.E("JS_Login_Btn"), 'click', function(){
+                                
+                                loginLayer.set('plugin',{
+                                    parentNode: document.body,
+                                    position: 'custom'
+                                });
+                                var offs = loginBtn.offset(); 
+                                loginLayer.set('styles',{
+                                    'top': ((offs && offs.top) || 0) + 45 + 'px',
+                                    'left': ((offs && offs.left) || 0)- 150 + 'px',
+                                    'z-index': '99999'
+                                });
+                                loginLayer.show();
+                            });
+                        }
+                    },
+                    triggerEvent: 'click',
+                    loginBtns: ["JS_Login_Btn"]
+                    
+                }).set('container',{
+                    node: panelSTK.E("JS_Login_Layer")
+                }).register('plugin_ready',function(){
+                    SINA_OUTLOGIN_LAYER.register('login_success', function(){
+                        rss01.init('rss01');
+                        jQuery('.blk_myRss').show();
+                        loginBtn.css({
+                            display:'none'
+                        });
+                        SINA_OUTLOGIN_LAYER.getWeiboInfo({
+                            timeout : 5* 1000,
+                            onSuccess : function(rs){
+                                loginWrapper.prepend($(
+                                   userInfoTpl.replace(/\{name\}/g, rs.data.name.substring(0,10))
+                                ));
+                            },
+                            onFailure:function(rs){
+                                loginWrapper.prepend($(
+                                    userInfoTpl.replace(/\{name\}/g, SINA_OUTLOGIN_LAYER.getSinaCookie().nick.substring(0,10))
+                                ));
+                            }
+                        });
+                        if (window.myEvent) {
+                            window.myEvent.fire({
+                                type : 'onLoginSuccess'
+                            })
+                        }
+                    });
+                    SINA_OUTLOGIN_LAYER.register('logout_success', function(){
+                        $(loginWrapper.children()[0]).remove();
+                        loginBtn.css({
+                            display:''
+                        });
+                         jQuery('.blk_myRss').hide();
+                        if (window.myEvent) {
+                            window.myEvent.fire({
+                                type : 'onLogoutSuccess'
+                            })
+                        }
+                    });
+
+                }).init();
+            });
+        }
+
+    })();
+</script>
+</body>
+</html>
+
+1.2020年新疆维吾尔自治区劳动模范和先进工作者拟表彰人选名单 - 2020-06-15
+https://k.sina.com.cn/article_1784473157_6a5ce64502001wec2.html?from=news&amp;subch=onews
+2.负债率201％！英利进入司法重整 能否涅槃重生？ - 2020-06-15
+https://finance.sina.com.cn/money/bond/research/2020-06-16/doc-iircuyvi8623240.shtml
+3.沪深股市交易提示（6月15日） - 2020-06-14
+https://finance.sina.com.cn/stock/relnews/hk/2020-06-15/doc-iircuyvi8497450.shtml
+4.6月15日沪深两市最新交易提示 - 2020-06-12
+https://k.sina.com.cn/article_1704103183_65928d0f02001rd7m.html?from=finance
+5.章盟主、超短帮、小鳄鱼齐聚！王府井肥了谁？原创野马财 - 2020-06-12
+https://finance.sina.com.cn/stock/relnews/cn/2020-06-15/doc-iirczymk7003631.shtml
+6.恒指本周下跌1.89% 机构：寻找跌出来的机会 - 2020-06-12
+https://finance.sina.com.cn/stock/stockptd/2020-06-14/doc-iircuyvi8437046.shtml
+7.最新！宝安区2019年度346个商住小区评星结果出炉！ - 2020-06-12
+https://k.sina.com.cn/article_1924738303_72b92cff01900s4in.html?from=news&amp;subch=onews

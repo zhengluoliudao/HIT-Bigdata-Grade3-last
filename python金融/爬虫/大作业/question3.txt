@@ -1,0 +1,1404 @@
+1.XD浪莎股6月15日快速反弹 - 2020-06-15
+http://stock.eastmoney.com/a/202006151521776761.html
+2.浪莎股份6月10日盘中跌幅达5% - 2020-06-10
+http://stock.eastmoney.com/a/202006101516221779.html
+3.浪莎股份6月9日盘中跌幅达5% - 2020-06-09
+http://stock.eastmoney.com/a/202006091514994818.html
+4.浪莎股份6月9日快速回调 - 2020-06-09
+http://stock.eastmoney.com/a/202006091514613723.html
+5.浪莎股份6月9日快速反弹 - 2020-06-09
+http://stock.eastmoney.com/a/202006091514579812.html
+6.浪莎股份6月8日快速反弹 - 2020-06-08
+http://stock.eastmoney.com/a/202006081513081048.html
+7.浪莎股份6月8日开盘跌幅达5% - 2020-06-08
+http://stock.eastmoney.com/a/202006081512959042.html
+8.浪莎股份6月5日快速回调 - 2020-06-05
+http://stock.eastmoney.com/a/202006051511070176.html
+9.浪莎股份6月5日打开涨停 - 2020-06-05
+http://stock.eastmoney.com/a/202006051510954210.html
+10.浪莎股份6月5日开盘涨停 - 2020-06-05
+http://stock.eastmoney.com/a/202006051510953461.html<html><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>搜索结果 - 东方财富网</title>
+  <!-- make at 6/17/2020, 3:32:07 PM, s_num: production，use 1ms -->
+  <link rel="stylesheet" href="/newstatic/css/style_reset.css">
+  <link rel="stylesheet" href="/newstatic/css/style_s.css">
+  <script src="https://hm.baidu.com/hm.js?e834f0bcb11ce14253b9eba75492b597"></script><script>
+      var _hmt = _hmt || [];
+      (function () {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?e834f0bcb11ce14253b9eba75492b597";
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(hm, s);
+      })();
+  </script>
+<style>body {
+  margin-top: 43px;
+}
+
+.topnavmain {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: #fff;
+}
+
+html,
+html body {
+  _background-image: url(about:blank);
+  _background-attachment: fixed;
+}
+
+.top-nav-wrap ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.top-nav-wrap {
+  font-size: 12px;
+  font-family: simsun;
+  height: 30px;
+  background-color: #f7f7f7;
+  border-top: 2px solid #ff4901;
+  border-bottom: 1px solid #dfdfdf;
+  position: fixed !important;
+  position: absolute;
+  left: 0;
+  top: 0;
+  _top: expression(eval(document.documentElement.scrollTop));
+  z-index: 99999;
+  width: 100%;
+  min-width: 1000px;
+}
+
+.top-nav-wrap .topnavmain {
+  background-color: #F7F7F7;
+}
+
+.tw-nav {
+  height: 30px;
+  float: left;
+}
+
+.top-nav-wrap a,
+.top-nav-wrap .down-menu {
+  float: left;
+}
+
+.top-nav-wrap a:link,
+.top-nav-wrap a:visited {
+  height: 16px;
+  padding: 7px 5px;
+  line-height: 16px;
+  background-color: none;
+  color: #000;
+  text-decoration: none;
+}
+
+.top-nav-wrap span.red a {
+  color: #ff4901;
+}
+
+.top-nav-wrap a:hover {
+  background-color: #eaeaea;
+  text-decoration: none;
+}
+
+.down-menu {
+  position: relative;
+  width: 87px;
+}
+
+.down-menu.wz0 {
+  width: auto;
+}
+
+.down-menu.wz2 {
+  width: 64px;
+}
+
+.down-menu.wz3 {
+  width: 70px;
+}
+
+.down-menu.wz4 {
+  width: 82px;
+}
+
+.down-menu.wz6 {
+  width: 105px;
+}
+
+.down-menu .category {
+  background-image: url(https://g1.dfcfw.com/g2/201607/20160725145137.png);
+  background-repeat: no-repeat;
+  background-position: right 13px;
+  padding: 7px 0;
+  display: block;
+  float: none;
+  text-align: center;
+  text-indent: -8px;
+}
+
+.down-menu .category.red {
+  color: #ff4900 !important;
+}
+
+.down-menu ul,
+.down-menu .loginBox {
+  clear: both;
+  background: #b3d0e4;
+  padding-bottom: 1px;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  -moz-box-shadow: 3px 3px 3px rgba(0, 0, 0, .1);
+  -webkit-box-shadow: 3px 3px 3px rgba(0, 0, 0, .1);
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, .1);
+  display: none;
+}
+
+.down-menu ul li a {
+  background-color: #fff;
+  margin: 1px;
+  margin-top: 0;
+  padding: 6px 0;
+  display: block;
+  text-align: center;
+  float: none;
+}
+
+.down-menu a:hover {
+  color: #ff4901;
+}
+
+.down-menu ul li {
+  width: 100%;
+}
+
+.down-menu ul li.tit {
+  text-align: center;
+  font-weight: bold;
+}
+
+.down-menu ul li.blue {
+  color: #315895;
+}
+
+.down-menu ul li.red {
+  color: #ff4900;
+}
+
+.down-menu ul li.red a {
+  color: #ff4900 !important;
+}
+
+.down-menu ul li.tit span {
+  background-color: #f7f7f7;
+  margin: 1px;
+  margin-top: 0;
+  padding: 6px 0;
+  display: block;
+  zoom: 1;
+}
+
+.down-menu.wz5 ul,
+.down-menu.wz5 ul li {
+  width: 145px;
+}
+
+.down-menu.wz2 ul,
+.down-menu.wz2 ul li {
+  width: 105px;
+}
+
+.down-menu.wz4 ul,
+.down-menu.wz4 ul li {
+  width: 90px;
+}
+
+.tw-login {
+  float: right;
+  text-align: right;
+}
+
+.down-menu.show ul,
+.down-menu.show .loginBox {
+  display: block;
+}
+
+.down-menu.show .category {
+  background-color: #eaeaea;
+}
+
+.down-menu .userinfo {
+  color: #ff4901;
+  height: 30px;
+  line-height: 17px;
+  width: 170px;
+}
+
+.down-menu .userinfo a {
+  margin: 0;
+  padding: 0;
+  float: none;
+  color: #ff4901;
+  text-indent: 0 !important;
+  display: inline-block !important;
+  padding: 7px 4px;
+}
+
+.down-menu .userinfo cite {
+  display: inline-block;
+  padding: 7px 0;
+  font-style: normal;
+}
+
+.down-menu .userinfo a.usernick {
+  padding-right: 16px;
+  background-position: right -355px;
+}
+
+.down-menu .userinfo .user-menu {
+  position: relative;
+  display: inline-block;
+}
+
+.down-menu .userinfo .user-menu-list {
+  position: absolute;
+  top: 30px;
+  left: 0;
+  border: 1px solid #b3d0e4;
+}
+
+.down-menu .userinfo .user-menu-list div {
+  background-color: #FFF;
+  padding: 14px;
+  color: #000;
+  width: 120px;
+  text-align: left;
+}
+
+.down-menu .user-menu-list dt,
+.user-menu-list dd {
+  float: left;
+  margin: 0;
+  height: 16px;
+  line-height: 16px;
+  margin: 2px 0;
+  width: 60px;
+  overflow: hidden;
+}
+
+.down-menu .user-menu-list dt {
+  clear: both;
+}</style><link rel="stylesheet" href="//emcharts.dfcfw.com/suggest/stocksuggest2017.css"><style type="text/css">.__emchatrs3_root_box {
+    position: relative;
+    user-select: none;
+    -webkit-user-select: none;
+    font-family: "Arial";
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.__emchatrs3_root_box * {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.__em_minimap {
+    clear: both;
+}
+
+.__emchatrs3_root_box .__ui {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    background-color: rgba(255, 255, 255, 0.001);
+}
+
+.__emchatrs3_root_box .__dotspoint {
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: 0;
+    top: 0;
+    overflow: visible;
+    z-index: 15;
+    user-select: none;
+}
+
+.__emchatrs3_root_box .__dotspoint span {
+    margin-right: 4px;
+}
+
+.__emchatrs3_root_box .__dotspoint .__pop {
+    position: absolute;
+    background-color: #fff;
+    padding: 5px;
+    font-size: 12px;
+    color: #333333;
+    border: 1px solid #65CAFE;
+    z-index: 15;
+}
+
+.__emchatrs3_root_box .__dotspoint .__pop div,
+.__emchatrs3_root_box .__dotspoint .__pop span,
+.__emchatrs3_root_box .__dotspoint .__pop a {
+    white-space: nowrap;
+    line-height: 12px;
+    color: #333333;
+}
+
+.__emchatrs3_root_box .__dotspoint .__pop a {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: inline-block;
+    vertical-align: middle;
+    text-decoration: none;
+}
+
+.__emchatrs3_root_box .__dotspoint .__pop a:hover {
+    text-decoration: underline;
+    color: #ff4901;
+}
+
+.__emchatrs3_root_box .__dotspoint .__pop span {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.__emchatrs3_root_box .__dotspoint .__dotgroup {
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: 0;
+    top: 0;
+    overflow: visible;
+}
+
+.__emchatrs3_root_box .__dotspoint .__dotgroup>div {
+    position: absolute;
+    cursor: pointer;
+}
+
+.__emchatrs3_root_box .__dotspoint .__dotgroup>div img {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.__emchatrs3_root_box .__canvas {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+}
+
+.__emchatrs3_root_box .__canvas canvas {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 5;
+}
+
+
+/* 主图指标 */
+
+.__emchatrs3_root_box .kt-pad {
+    position: absolute;
+    color: #5F5F5F;
+    width: 60px;
+}
+
+.__emchatrs3_root_box .kt-title {
+    margin-bottom: 8px;
+    font-size: 12px;
+}
+
+.__emchatrs3_root_box .kt-line {
+    position: relative;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+.__emchatrs3_root_box .kt-radio-wrap {
+    position: relative;
+    border: solid 1px #305896;
+    height: 10px;
+    width: 10px;
+}
+
+.__emchatrs3_root_box .kt-radio-wrap div {
+    position: absolute;
+    display: none;
+    margin: 2px;
+    width: 6px;
+    height: 6px;
+    background-color: #305896;
+}
+
+.__emchatrs3_root_box .kt-radio-choose div {
+    display: block !important;
+}
+
+.__emchatrs3_root_box .kt-name {
+    position: absolute;
+    color: #555;
+    line-height: 18px;
+    height: 16px;
+    top: -3px;
+    left: 15px;
+    font-family: "simsun"
+}
+
+.__emchatrs3_root_box .__technologyindex {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    background-color: #888888
+}
+
+.__emchatrs3_root_box .__technologyindex::after {
+    content: "";
+    display: block;
+    clear: bton;
+}
+
+.__emchatrs3_root_box .__technologyindex li {
+    float: left;
+    cursor: pointer;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 100;
+    font-family: simsun;
+}
+
+.__emchatrs3_root_box .__technologyindex_act {
+    background-color: #aaaaaa
+}
+
+.__emchatrs3_root_box .__em_minimap {
+    position: absolute;
+    bottom: 0;
+    z-index: 30;
+    overflow: visible;
+}
+
+.__emchatrs3_root_box .__slidebar {
+    position: absolute;
+    height: 100%;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.1);
+    cursor: move;
+}
+
+.__emchatrs3_root_box .__slidebar div {
+    position: absolute;
+    width: 10px;
+    height: 50%;
+    top: 25%;
+    background-color: #999999;
+}
+
+.__emchatrs3_root_box .__slidebar .__sb_left {
+    left: -5px;
+    cursor: w-resize;
+}
+
+.__emchatrs3_root_box .__slidebar .__sb_right {
+    right: -5px;
+    cursor: e-resize;
+}
+
+.__emchatrs3_root_box .__popfloatwin {
+    position: absolute;
+    display: none;
+    border: 1px solid #97c8ff;
+    width: 120px;
+    font-size: 12px;
+    background-color: #ffffff;
+    color: #999999;
+    padding-bottom: 5px;
+    top: 30px;
+    z-index: 50;
+    cursor: move;
+}
+
+.__emchatrs3_root_box .__popfloatwin h4 {
+    color: #333333;
+    background-color: #edf5ff;
+    margin: 0;
+    padding: 4px 0;
+    text-align: center;
+}
+.__emchatrs3_root_box .__popfloatwin h4 label,
+.__emchatrs3_root_box .__popfloatwin h4 span {
+    display: block;
+    text-align: center;
+    cursor: move;
+}
+.__emchatrs3_root_box .__popfloatwin h4 label {
+    color: red;
+}
+.__emchatrs3_root_box .__popfloatwin h4 span {
+    color: #333333;
+}
+
+.__emchatrs3_root_box .__popfloatwin div {
+    position: relative;
+    padding: 0 10px;
+    padding-top: 1px;
+}
+
+.__emchatrs3_root_box .__popfloatwin div label {
+    color: #999999;
+}
+
+.__emchatrs3_root_box .__popfloatwin div span {
+    float: right;
+    text-align: right;
+}
+
+.__emchatrs3_root_box .__rise {
+    color: red;
+}
+
+.__emchatrs3_root_box .__fall {
+    color: green;
+}
+
+.__emchatrs3_root_box .__hold {
+    color: #333333;
+}
+
+.__emchatrs3_root_box .__popwin_tendency {
+    position: absolute;
+    display: none;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 12px;
+    font-size: 14px;
+    -webkit-transition-duration: 0.1s;
+    z-index: 60;
+}
+
+.__emchatrs3_root_box .__popwin {
+    position: absolute;
+    display: none;
+    z-index: 40;
+}
+
+.__emchatrs3_root_box .__default {
+    color: #ffffff;
+    padding: 10px;
+}
+.__emchatrs3_root_box .__default h4{
+    margin: 0;
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+.__emchatrs3_root_box .__default div{
+    font-size: 14px;
+}
+.__emchatrs3_root_box .__default div label{
+    margin-right: 5px;
+}
+
+
+
+.__emchatrs3_root_box .__popwin_style {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 10px;
+    font-size: 12px;
+    color: #fff;
+}
+.__emchatrs3_root_box .__popwin_style .__strong {
+    font-weight: 900;
+}
+.__emchatrs3_root_box .__popwin_style .__poplist div {
+    margin: 5px 0;
+}
+.__emchatrs3_root_box .__popwin_style .__poplist div > label {
+    margin-right: 5px;
+}
+
+
+.__emchatrs3_root_box .__popwin_tendency h4 {
+    margin: 0;
+    text-align: center;
+    color: #ffffff;
+    /* min-width: 120px; */
+}
+
+.__emchatrs3_root_box .__popwin_tendency div {
+    margin-top: 5px;
+    color: #fafafa;
+}
+
+.__emchatrs3_root_box .__popwin_default div {
+    color: #fafafa;
+}
+
+
+
+
+
+.__emchatrs3_root_box .__points {
+    position: absolute;
+    /* width: 100%; */
+    /* height: 100%; */
+    overflow: visible;
+    z-index: 30;
+}
+
+.__emchatrs3_root_box .__points div {
+    position: absolute;
+    border-radius: 50%;
+    cursor: pointer;
+    /* pointer-events:none; */
+}
+
+.__emchatrs3_root_box .__points div div {
+    background-color: inherit;
+    position: absolute;
+    display: block;
+    width: 70%;
+    height: 70%;
+    top: 15%;
+    left: 15%;
+    border-radius: 50%;
+}
+
+.__emchatrs3_root_box .__popwin_mini {
+    position: absolute;
+    display: none;
+    background-color: #ffffff;
+    border-radius: 4px;
+    padding: 2px 6px;
+    border: 1px solid #9B9B9B;
+    font-size: 12px;
+    pointer-events: none;
+    opacity: 0.9;
+}
+
+.__emchatrs3_root_box .__popwin_line {
+    position: absolute;
+    display: none;
+    background-color: #ffffff;
+    border-radius: 4px;
+    padding: 8px 10px;
+    border: 1px solid #9B9B9B;
+    font-size: 12px;
+    pointer-events: none;
+    opacity: 0.9;
+}
+
+.__emchatrs3_root_box .__popwin_line>div {
+    font-size: 14px;
+    padding: 1px 0;
+    color: #333333;
+}
+
+.__emchatrs3_root_box .__popwin_mini>div {
+    color: #333333;
+}
+
+.__emchatrs3_root_box .__layerText {
+    display: none;
+}
+
+.__emchatrs3_root_box:hover .__layerText {
+    display: block;
+}
+
+.__emchatrs3_root_box .__positionChanges div {
+    position: absolute;
+    border-radius: 50%;
+    transition-duration: 0.3s;
+    -ms-transition-duration: 0.3s;
+    width: 6px;
+    height: 6px;
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.__emchatrs3_root_box .__positionChanges div:hover {
+    margin-left: -2px;
+    margin-top: -2px;
+    width: 10px;
+    height: 10px;
+}
+
+
+/*盘口异动的数据最后一条闪烁*/
+
+.timePositionChangesAni {
+    animation: timePositionChangesAni 0.7s infinite linear alternate;
+    -webkit-animation: timePositionChangesAni 0.7s infinite linear alternate;
+    -ms-animation: timePositionChangesAni 0.7s infinite linear alternate;
+}
+
+@keyframes timePositionChangesAni {
+    0% {
+        width: 6px;
+        height: 6px;
+        margin-top: 0;
+        margin-left: 0;
+    }
+    100% {
+        width: 10px;
+        height: 10px;
+        margin-top: -2px;
+        margin-left: -2px;
+    }
+}
+
+@-webkit-keyframes timePositionChangesAni {
+    0% {
+        width: 6px;
+        height: 6px;
+        margin-top: 0;
+        margin-left: 0;
+    }
+    100% {
+        width: 10px;
+        height: 10px;
+        margin-top: -2px;
+        margin-left: -2px;
+    }
+}
+
+@-ms-keyframes timePositionChangesAni {
+    0% {
+        width: 6px;
+        height: 6px;
+        margin-top: 0;
+        margin-left: 0;
+    }
+    100% {
+        width: 10px;
+        height: 10px;
+        margin-top: -2px;
+        margin-left: -2px;
+    }
+}
+
+
+/* 盘口异动浮窗 */
+
+.__emchatrs3_root_box .__positionChangePop {
+    position: absolute;
+    width: 120px;
+    border: 1px solid #65CAFE;
+    height: 50px;
+    background-color: #ffffff;
+    font-size: 12px;
+    color: #666666;
+}
+
+.__emchatrs3_root_box .__positionChangePop::after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 8px solid #65CAFE;
+    border-left: 8px solid #65CAFE;
+    border-bottom: 8px solid rgba(0, 0, 0, 0);
+    border-right: 8px solid rgba(0, 0, 0, 0);
+    left: 50%;
+    z-index: 2;
+    transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    top: -8px;
+    margin-left: -8px;
+}
+
+.__emchatrs3_root_box .__positionChangePop>div {
+    float: left;
+    height: 40px;
+    width: 60px;
+    padding: 5px 0;
+}
+
+.__emchatrs3_root_box .__positionChangePop>div:first-child {
+    background-color: #D1E7FF;
+}
+
+.__emchatrs3_root_box .__positionChangePop img {
+    display: block;
+    height: 25x;
+    margin: 0 auto;
+}
+
+.__emchatrs3_root_box .__positionChangePop label {
+    display: block;
+    height: 20px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.__emchatrs3_root_box .__positionChangePop span {
+    display: block;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+}
+
+.__emchatrs3_root_box .__em_loading {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    display: none;
+    z-index: 30;
+}
+
+.__emchatrs3_root_box .__em_loading img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -39px;
+    margin-top: -50px;
+    display: block;
+}</style><link rel="stylesheet" href="//emcharts.dfcfw.com/newsts/css/ts.css"><img src="//dpso.eastmoney.com/api/hotsearchpic?keyPhrase=%E6%B5%AA%E8%8E%8E%E8%82%A1%E4%BB%BD&amp;token=F3D62F416340BBB9AF664D50C123194A" style="width: 0px; height: 0px;"></head>
+<body>
+  <div class="header">
+	<div class="excursion">
+		<div class="search clearflaot">
+			<a class="logo" href="http://www.eastmoney.com">
+				<img src="/Content/img/logo-124.png">
+			</a>
+			<div class="search-input clearflaot">
+				<form action="" style="position: relative;"><div class="suggest2017hotnewt" style="position: absolute; left: 500px; top: 7px;">2</div>
+                	<input type="text" value="" id="searchSuggest" autocomplete="off" class="noieclear" placeholder="输入股票代码、名称、简拼或关键字">
+				<div class="suggest2017" style="width: 505px; z-index: 1000; left: 0px; top: 32px;"> <div class="suggest2017c"></div></div></form>
+				<button>搜 索</button>
+			</div>
+			<div class="keywords" id="keywords">
+				<ul></ul>
+			</div>
+		</div>
+	</div>
+		
+	<div class="ouher">
+		<a href="http://www.eastmoney.com/">东方财富网</a>|
+		<a href="/">搜索首页</a>
+	</div>
+</div>
+  <div class="container">
+    <div class="types">
+        <ul class="clearflaot">
+            <li class="web">
+                <a target="_self" href="/web/s?keyword=%E6%B5%AA%E8%8E%8E%E8%82%A1%E4%BB%BD">网页</a>
+            </li>
+            <li class="quote">
+                <a target="_self" href="/quotation/s?keyword=%E6%B5%AA%E8%8E%8E%E8%82%A1%E4%BB%BD">行情</a>
+            </li>
+            <li class="zixun active">
+                <a target="_self" href="/news/s?keyword=%E6%B5%AA%E8%8E%8E%E8%82%A1%E4%BB%BD">资讯</a>
+            </li>
+            <li class="gonggao">
+                <a target="_self" href="/Ann/s?keyword=%E6%B5%AA%E8%8E%8E%E8%82%A1%E4%BB%BD">公告</a>
+            </li>
+            <li class="yanbao">
+                <a target="_self" href="/Yanbao/s?keyword=%E6%B5%AA%E8%8E%8E%E8%82%A1%E4%BB%BD">研报</a>
+            </li>
+            <li class="caifuhaowenzhang">
+                <a target="_self" href="/CArticle/s?keyword=%E6%B5%AA%E8%8E%8E%E8%82%A1%E4%BB%BD">财富号文章</a>
+            </li>
+            <li class="guba">
+                <a target="_self" href="/TieZi/s?keyword=%E6%B5%AA%E8%8E%8E%E8%82%A1%E4%BB%BD">股吧</a>
+            </li>
+            <li class="wendongmi">
+                <a target="_self" href="/QA/s?keyword=%E6%B5%AA%E8%8E%8E%E8%82%A1%E4%BB%BD">问董秘</a>
+            </li>
+            <!-- <li class="xuanshangwen">
+                <a target="_self">悬赏问</a>
+            </li> -->
+            <li class="boke">
+                <a target="_self" href="/Blog/s?keyword=%E6%B5%AA%E8%8E%8E%E8%82%A1%E4%BB%BD">博客</a>
+            </li>
+            <li class="zuhe">
+                <a target="_self" href="/ZuHe/s?keyword=%E6%B5%AA%E8%8E%8E%E8%82%A1%E4%BB%BD">组合</a>
+            </li>
+            <!-- <li class="caifushenghuo">
+            <a target="_self">财富生活</a>
+        </li> -->
+            <li class="caifuhao">
+                <a target="_self" href="/CAccount/s?keyword=%E6%B5%AA%E8%8E%8E%E8%82%A1%E4%BB%BD">财富号</a>
+            </li>
+            <li class="ibaike">
+                <a target="_self" href="/baike/s?keyword=%E6%B5%AA%E8%8E%8E%E8%82%A1%E4%BB%BD">百科</a>
+            </li>
+        </ul>
+    </div>
+  </div>
+  <div class="container">
+  <div class="main clearflaot">
+    <div class="search-result" style="display: block;">
+	<div class="count">相关结果约238个</div>
+	<div class="correlation" style="display: block;">
+		<img src="/Content/img/icon-em.png">
+		<span class="possible">以下为您显示<span>浪莎股份(600137)</span>的搜索结果。 </span>
+		<span class="still">还可以搜索包含<a href="http://so.eastmoney.com/news/s?keyword=浪莎股份&amp;isAssociation=false" target="_self">浪莎股份</a>、<a href="http://so.eastmoney.com/news/s?keyword=600137&amp;isAssociation=false" target="_self">600137</a>关键字的资讯</span>
+		<a></a>
+	</div>
+</div>
+
+    <div class="modules">
+
+      <div class="filter">
+        <div class="range clearfloat">
+          <p>搜索范围</p>
+          <ul class="clearfloat">
+            <li class="radio radio-checked" data-range="8192">
+              <span class="radio"><i></i></span>
+              <label>全部</label>
+            </li>
+            <li data-range="16384">
+              <span class="radio"><i></i></span>
+              <label>标题</label>
+            </li>
+            <li data-range="32768">
+              <span class="radio"><i></i></span>
+              <label>正文</label>
+            </li>
+
+          </ul>
+        </div>
+        <div class="order">
+          <p>
+            <span>默认排序</span>
+            <img src="/Content/img/order-down.png">
+          </p>
+          <div class="candidate" style="display: none;">
+            <img src="/Content/img/poptip.png">
+            <ul>
+              <li data-order="1">默认排序</li>
+              <li data-order="2">按相关度排序</li>
+              <li data-order="4">按时间排序</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!--没有搜到内容-->
+      <div class="module module-empty ">
+	<h3 class="clearflaot">
+		抱歉，找不到"<em>000</em>"相关信息
+	</h3>
+	<p>您可以尝试：</p>
+	<ul>
+		<li>检查输入的关键词是否有误</li>
+		<li>重新输入新的关键词</li>
+	</ul>
+	
+	<h2>去网页搜索： <a>1111</a></h2>
+	
+</div>
+
+
+      <div class="module module-news-list" style="display: block;"><div class="news-item"><h3><a href="http://stock.eastmoney.com/a/202006151521776761.html">XD浪莎股6月15日快速反弹</a></h3><p class="news-desc">2020-06-15 14:30:05 - 以下是XD浪莎股在北京时间6月15日14:29分盘口异动快照：6月15日，XD浪莎股盘中快速反弹，5分钟内涨幅超过2%，截至14点29分，报15.92元，成交1990.01万元，换手率1.31%。分笔14:29:3515.8020↑14:29:2915.795↑14:29:261...</p><div class="link"><a href="http://stock.eastmoney.com/a/202006151521776761.html">http://stock.eastmoney.com/a/202006151521776761.html</a></div></div><div class="news-item"><h3><a href="http://stock.eastmoney.com/a/202006101516221779.html"><em>浪莎股份</em>6月10日盘中跌幅达5%</a></h3><p class="news-desc">2020-06-10 10:07:54 - 以下是<em>浪莎股份</em>在北京时间6月10日10:07分盘口异动快照：6月10日，<em>浪莎股份</em>盘中跌幅达5%，截至10点07分，报15.5元，成交2670.75万元，换手率1.74%。分笔10:07:4715.50180↓10:07:4415.5212↓10:07:3815.5245↓10:0...</p><div class="link"><a href="http://stock.eastmoney.com/a/202006101516221779.html">http://stock.eastmoney.com/a/202006101516221779.html</a></div></div><div class="news-item"><h3><a href="http://stock.eastmoney.com/a/202006091514994818.html"><em>浪莎股份</em>6月9日盘中跌幅达5%</a></h3><p class="news-desc">2020-06-09 14:34:13 - 以下是<em>浪莎股份</em>在北京时间6月9日14:34分盘口异动快照：6月9日，<em>浪莎股份</em>盘中跌幅达5%，截至14点34分，报16.31元，成交6240.57万元，换手率3.78%。分笔14:34:0916.3181↓14:34:0616.3515↓14:34:0016.402↓14:33:5...</p><div class="link"><a href="http://stock.eastmoney.com/a/202006091514994818.html">http://stock.eastmoney.com/a/202006091514994818.html</a></div></div><div class="news-item"><h3><a href="http://stock.eastmoney.com/a/202006091514613723.html"><em>浪莎股份</em>6月9日快速回调</a></h3><p class="news-desc">2020-06-09 09:44:44 - 以下是<em>浪莎股份</em>在北京时间6月9日09:44分盘口异动快照：6月9日，<em>浪莎股份</em>盘中快速回调，5分钟内跌幅超过2%，截至9点44分，报17.21元，成交2063.42万元，换手率1.22%。分笔09:44:2917.21149↓09:44:2617.2619↓09:44:2017.3...</p><div class="link"><a href="http://stock.eastmoney.com/a/202006091514613723.html">http://stock.eastmoney.com/a/202006091514613723.html</a></div></div><div class="news-item"><h3><a href="http://stock.eastmoney.com/a/202006091514579812.html"><em>浪莎股份</em>6月9日快速反弹</a></h3><p class="news-desc">2020-06-09 09:36:41 - 以下是<em>浪莎股份</em>在北京时间6月9日09:35分盘口异动快照：6月9日，<em>浪莎股份</em>盘中快速反弹，5分钟内涨幅超过2%，截至9点35分，报17.25元，成交793.32万元，换手率0.48%。分笔09:35:5317.2583↑09:35:5017.207↑09:35:4717.2016...</p><div class="link"><a href="http://stock.eastmoney.com/a/202006091514579812.html">http://stock.eastmoney.com/a/202006091514579812.html</a></div></div><div class="news-item"><h3><a href="http://stock.eastmoney.com/a/202006081513081048.html"><em>浪莎股份</em>6月8日快速反弹</a></h3><p class="news-desc">2020-06-08 10:01:35 - 以下是<em>浪莎股份</em>在北京时间6月8日10:01分盘口异动快照：6月8日，<em>浪莎股份</em>盘中快速反弹，5分钟内涨幅超过2%，截至10点01分，报17元，成交4764.08万元，换手率2.88%。分笔10:01:2717.0030↑10:01:2416.9717↓10:01:2116.9718...</p><div class="link"><a href="http://stock.eastmoney.com/a/202006081513081048.html">http://stock.eastmoney.com/a/202006081513081048.html</a></div></div><div class="news-item"><h3><a href="http://stock.eastmoney.com/a/202006081512959042.html"><em>浪莎股份</em>6月8日开盘跌幅达5%</a></h3><p class="news-desc">2020-06-08 09:30:45 - 以下是<em>浪莎股份</em>在北京时间6月8日09:26分盘口异动快照：6月8日，<em>浪莎股份</em>开盘跌幅达5%，截至9点26分，报16.55元，成交628.73万元，换手率0.39%。分笔09:25:0516.553799↓09:25:0016.550↑09:24:5716.493680↑09:22...</p><div class="link"><a href="http://stock.eastmoney.com/a/202006081512959042.html">http://stock.eastmoney.com/a/202006081512959042.html</a></div></div><div class="news-item"><h3><a href="http://stock.eastmoney.com/a/202006051511070176.html"><em>浪莎股份</em>6月5日快速回调</a></h3><p class="news-desc">2020-06-05 10:26:12 - 以下是<em>浪莎股份</em>在北京时间6月5日10:26分盘口异动快照：6月5日，<em>浪莎股份</em>盘中快速回调，5分钟内跌幅超过2%，截至10点26分，报17.64元，成交8213.24万元，换手率4.68%。分笔10:26:0017.6437↑10:25:5717.639↓10:25:5417.63...</p><div class="link"><a href="http://stock.eastmoney.com/a/202006051511070176.html">http://stock.eastmoney.com/a/202006051511070176.html</a></div></div><div class="news-item"><h3><a href="http://stock.eastmoney.com/a/202006051510954210.html"><em>浪莎股份</em>6月5日打开涨停</a></h3><p class="news-desc">2020-06-05 09:32:03 - 以下是<em>浪莎股份</em>在北京时间6月5日09:30分盘口异动快照：6月5日9点30分，<em>浪莎股份</em>盘中打开涨停，现报18.2元，成交2690.84万元，换手率1.55%。该股之前于9点30分涨停。分笔09:30:3318.20751↓09:30:3018.301829↓09:30:2718....</p><div class="link"><a href="http://stock.eastmoney.com/a/202006051510954210.html">http://stock.eastmoney.com/a/202006051510954210.html</a></div></div><div class="news-item"><h3><a href="http://stock.eastmoney.com/a/202006051510953461.html"><em>浪莎股份</em>6月5日开盘涨停</a></h3><p class="news-desc">2020-06-05 09:31:57 - 以下是<em>浪莎股份</em>在北京时间6月5日09:30分盘口异动快照：6月5日9点30分，<em>浪莎股份</em>开盘涨停，报18.3元，目前封单694手，折合127.08万元。截至目前，成交2174.68万元，换手率1.26%。分笔09:30:2418.30256↑09:30:2118.30871↑09:...</p><div class="link"><a href="http://stock.eastmoney.com/a/202006051510953461.html">http://stock.eastmoney.com/a/202006051510953461.html</a></div></div></div>
+      <!--分页-->
+      <div class="page-group">
+	<ul class="clearflaot"><li class="page-group-active">1</li><li>2</li><li>3</li><li>4</li><li>5</li><li>6</li><li>7</li><li>8</li><li>9</li><li>10</li><li>下一页</li></ul>
+</div>
+
+      <!--相关搜索-->
+      <div class="module module-correlation-search" style="display: block;">
+	<h3>相关搜索</h3>
+	<ul class="clearflaot"><li><a href="/news/s?keyword=%E6%B5%AA%E8%8E%8E%E8%82%A1%E4%BB%BD">浪莎股份</a></li></ul>
+</div>
+
+
+    </div>
+
+    <!--右侧内容-->
+    <div class="corr-right">
+      
+<div class="hot-search clearflaot" style="display: block;">
+	<div class="cg-title">
+		<h4>
+			<label>今日热搜</label>
+			<img src="/Content/img/hot.png">
+		</h4>
+	</div>
+	<ul><li><span class="seq seq1"></span><p><a target="_self" title="疫苗概念股围猎全攻略" href="http://finance.eastmoney.com/a/202006171524288591.html">疫苗概念股围猎<span class="hot-new">新</span></a></p></li><li><span class="seq seq2"></span><p><a target="_self" title="基因测序板块站上风口" href="http://so.eastmoney.com/web/s?keyword=%E5%9F%BA%E5%9B%A0%E6%B5%8B%E5%BA%8F&amp;pageindex=1">基因测序板块站<span class="hot-new">新</span></a></p></li><li><span class="seq seq3"></span><p><a target="_self" title="5G概念股暗藏暴涨因子？" href="http://finance.eastmoney.com/a/202006171524351881.html">5G概念股暗藏</a></p></li><li><span class="seq seq4">4</span><p><a target="_self" title="钢铁行业底部崛起" href="http://so.eastmoney.com/web/s?keyword=%E9%92%A2%E9%93%81%E8%A1%8C%E4%B8%9A&amp;pageindex=1">钢铁行业底部崛</a></p></li><li><span class="seq seq5">5</span><p><a target="_self" title="中报掘金" href="http://data.eastmoney.com/bbsj/202006/yjyg.html">中报掘金</a></p></li><li><span class="seq seq6">6</span><p><a target="_self" title="跟随国家队投资" href="http://data.eastmoney.com/gjdcg/">跟随国家队投资</a></p></li><li><span class="seq seq7">7</span><p><a target="_self" title="机构最新调研数据一览" href="http://data.eastmoney.com/jgdy/">机构最新调研数</a></p></li><li><span class="seq seq8">8</span><p><a target="_self" title="昨日跌停" href="http://so.eastmoney.com/web/s?keyword=%E6%98%A8%E6%97%A5%E8%B7%8C%E5%81%9C">昨日跌停</a></p></li><li><span class="seq seq9">9</span><p><a target="_self" title="上市公司限售股解禁一览" href="http://data.eastmoney.com/dxf/default.html">上市公司限售股</a></p></li><li><span class="seq seq10">10</span><p><a target="_self" title="昨日涨停" href="http://so.eastmoney.com/web/s?keyword=%E6%98%A8%E6%97%A5%E6%B6%A8%E5%81%9C&amp;pageindex=1">昨日涨停</a></p></li></ul>
+	<ul><li><span class="seq seq11">11</span><p><a target="_self" title="新股申购" href="http://so.eastmoney.com/web/s?keyword=%e6%96%b0%e8%82%a1%e7%94%b3%e8%b4%ad">新股申购<span class="hot-new">新</span></a></p></li><li><span class="seq seq12">12</span><p><a target="_self" title="股票回购" href="http://so.eastmoney.com/web/s?keyword=%e8%82%a1%e7%a5%a8%e5%9b%9e%e8%b4%ad">股票回购<span class="hot-new">新</span></a></p></li><li><span class="seq seq13">13</span><p><a target="_self" title="股权质押" href="http://so.eastmoney.com/web/s?keyword=%e8%82%a1%e6%9d%83%e8%b4%a8%e6%8a%bc">股权质押</a></p></li><li><span class="seq seq14">14</span><p><a target="_self" title="龙虎榜" href="http://so.eastmoney.com/web/s?keyword=%e9%be%99%e8%99%8e%e6%a6%9c">龙虎榜<span class="hot-new">新</span></a></p></li><li><span class="seq seq15">15</span><p><a target="_self" title="并购重组" href="http://so.eastmoney.com/web/s?keyword=%e5%b9%b6%e8%b4%ad%e9%87%8d%e7%bb%84">并购重组</a></p></li><li><span class="seq seq16">16</span><p><a target="_self" title="重大合同" href="http://so.eastmoney.com/web/s?keyword=%e9%87%8d%e5%a4%a7%e5%90%88%e5%90%8c">重大合同</a></p></li><li><span class="seq seq17">17</span><p><a target="_self" title="主力持仓" href="http://so.eastmoney.com/web/s?keyword=%e4%b8%bb%e5%8a%9b%e6%8c%81%e4%bb%93">主力持仓</a></p></li><li><span class="seq seq18">18</span><p><a target="_self" title="公司投资" href="http://so.eastmoney.com/web/s?keyword=%e5%85%ac%e5%8f%b8%e6%8a%95%e8%b5%84">公司投资</a></p></li><li><span class="seq seq19">19</span><p><a target="_self" title="融资融券" href="http://data.eastmoney.com/rzrq/">融资融券</a></p></li><li><span class="seq seq20">20</span><p><a target="_self" title="委托理财" href="http://so.eastmoney.com/web/s?keyword=%e5%a7%94%e6%89%98%e7%90%86%e8%b4%a2">委托理财</a></p></li></ul>
+</div>
+
+<div class="lzgn" style="display: block;">
+	<div class="cg-title">
+		<h4>领涨概念</h4>
+	</div>
+	<div class="lzgn-list">
+		<div class="lzgn-head"> 
+			<label>&nbsp;</label>
+			<span>名称</span>
+			<span>涨跌幅</span>
+			<span>领涨股</span>
+		</div>
+	<div class="lzgn-item"><label class="seqlz1">1</label><span><a href="/web/s?keyword=%E6%B5%81%E6%84%9F">流感</a></span><span class="c-up">4.70%</span><span><a href="/web/s?keyword=%E5%8D%8E%E5%8C%97%E5%88%B6%E8%8D%AF">华北制药</a></span></div><div class="lzgn-item"><label class="seqlz2">2</label><span><a href="/web/s?keyword=%E5%8D%95%E6%8A%97%E6%A6%82%E5%BF%B5">单抗概念</a></span><span class="c-up">4.29%</span><span><a href="/web/s?keyword=%E8%A5%BF%E8%97%8F%E8%8D%AF%E4%B8%9A">西藏药业</a></span></div><div class="lzgn-item"><label class="seqlz3">3</label><span><a href="/web/s?keyword=%E8%B6%85%E7%BA%A7%E7%9C%9F%E8%8F%8C">超级真菌</a></span><span class="c-up">3.94%</span><span><a href="/web/s?keyword=%E7%A5%9E%E5%A5%87%E5%88%B6%E8%8D%AF">神奇制药</a></span></div><div class="lzgn-item"><label class="seqlz4">4</label><span><a href="/web/s?keyword=%E7%8B%AC%E5%AE%B6%E8%8D%AF%E5%93%81">独家药品</a></span><span class="c-up">3.72%</span><span><a href="/web/s?keyword=%E8%A5%BF%E8%97%8F%E8%8D%AF%E4%B8%9A">西藏药业</a></span></div><div class="lzgn-item"><label class="seqlz5">5</label><span><a href="/web/s?keyword=%E7%94%9F%E7%89%A9%E7%96%AB%E8%8B%97">生物疫苗</a></span><span class="c-up">3.44%</span><span><a href="/web/s?keyword=%E9%B9%8F%E9%B9%9E%E7%8E%AF%E4%BF%9D">鹏鹞环保</a></span></div><div class="lzgn-item"><label class="seqlz6">6</label><span><a href="/web/s?keyword=RCS%E6%A6%82%E5%BF%B5">RCS概念</a></span><span class="c-up">3.40%</span><span><a href="/web/s?keyword=%E8%93%9D%E8%89%B2%E5%85%89%E6%A0%87">蓝色光标</a></span></div><div class="lzgn-item"><label class="seqlz7">7</label><span><a href="/web/s?keyword=%E9%9D%92%E8%92%BF%E7%B4%A0">青蒿素</a></span><span class="c-up">3.19%</span><span><a href="/web/s?keyword=%E5%8D%97%E5%8D%AB%E8%82%A1%E4%BB%BD">南卫股份</a></span></div><div class="lzgn-item"><label class="seqlz8">8</label><span><a href="/web/s?keyword=%E7%97%85%E6%AF%92%E9%98%B2%E6%B2%BB">病毒防治</a></span><span class="c-up">3.11%</span><span><a href="/web/s?keyword=%E5%AE%89%E7%A7%91%E7%94%9F%E7%89%A9">安科生物</a></span></div><div class="lzgn-item"><label class="seqlz9">9</label><span><a href="/web/s?keyword=%E4%B8%AD%E8%8D%AF">中药</a></span><span class="c-up">3.08%</span><span><a href="/web/s?keyword=%E7%A5%9E%E5%A5%87%E5%88%B6%E8%8D%AF">神奇制药</a></span></div><div class="lzgn-item"><label class="seqlz10">10</label><span><a href="/web/s?keyword=%E7%B2%BE%E5%87%86%E5%8C%BB%E7%96%97">精准医疗</a></span><span class="c-up">2.93%</span><span><a href="/web/s?keyword=%E5%AE%89%E7%A7%91%E7%94%9F%E7%89%A9">安科生物</a></span></div></div>
+</div>
+
+
+<div class="sjxg" style="display: none;">
+    <div class="cg-title">
+        <h4>数据选股</h4>
+    </div>
+    <div class="sjxg-list clearfloat">
+    </div>
+</div>
+
+
+<div class="corr-search" style="display: block;">
+	<div class="cg-title">
+		<h4>相关搜索</h4>
+	</div>
+	<ul><li><a href="/news/s?keyword=%E6%B5%AA%E8%8E%8E%E8%82%A1%E4%BB%BD"><em>浪莎股份</em></a></li></ul>
+</div>
+
+<div class="corr-guba" style="display: block;">
+	<div class="cg-title">
+		<h4>相关股吧</h4>
+		<div class="switch icon-show4">展开</div>
+	</div>
+	<ul class="clearflaot"><li><a href="http://guba.eastmoney.com/list,600137.html"><div><em>浪莎股份</em>[600137]</div><div>上交所</div></a></li></ul>
+</div>
+
+
+<div class="corr-caifuhao r-caifuhao">
+	<div class="cg-title">
+		<h4>财富号</h4>
+		<a href="">更多</a>						
+	</div>
+	
+	<ul class="clearflaot">
+		
+	</ul>
+</div>
+
+<div class="corr-caifuhao corr-bayou " style="display: block;">
+	<div class="cg-title">
+		<h4>吧友</h4>
+		<a href="/TieZi/s?swtype=3&amp;keyword=%E6%B5%AA%E8%8E%8E%E8%82%A1%E4%BB%BD">更多</a>						
+	</div>
+	
+	<ul class="clearflaot"><li><a href="http://iguba.eastmoney.com/6901113187103434"><img src="https://avator.eastmoney.com/qface/6901113187103434/180"><p title="浪莎股份吧"><em>浪莎股份</em>吧</p></a></li><li><a href="http://iguba.eastmoney.com/6358024951687398"><img src="https://avator.eastmoney.com/qface/6358024951687398/180"><p title="浪莎股份股友"><em>浪莎股份</em>股友</p></a></li><li><a href="http://iguba.eastmoney.com/2368113638066090"><img src="https://avator.eastmoney.com/qface/2368113638066090/180"><p title="浪莎股份资讯"><em>浪莎股份</em>资讯</p></a></li><li><a href="http://iguba.eastmoney.com/6490213941003014"><img src="https://avator.eastmoney.com/qface/6490213941003014/180"><p title="浪莎股份资讯d"><em>浪莎股份</em>资讯d</p></a></li></ul>
+</div>
+
+<div class="corr-tzzh">
+	<div class="cg-title">
+		<h4>投资组合</h4>
+		<a href="">更多</a>						
+	</div>
+	
+	<div class="manager">
+		<label>
+			<a></a>
+		</label>
+		<span></span>
+	</div>
+	
+	<div class="day-data">
+		<div class="left">
+			<div>
+				<label>总收益：</label>
+				<span class="c-up"></span>
+			</div>
+			<p>总收益战胜了<span></span>的组合</p>
+		</div>
+		<div class="right">
+			<ul>
+				<li>
+					<label>净值:</label>
+					<span class="jz"></span>
+				</li>
+				<li>
+					<label>盈亏比:</label>
+					<span class="c-up"></span>
+					<span>盈</span>
+					<span class="c-down"></span>
+					<span>亏</span>
+				</li>
+				<li>
+					<label>胜率:</label>
+					<span class="sl"></span>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+    </div>
+  </div>
+
+</div>
+
+  <!-- footer-2016 -->
+<style>
+    .footer2016 ul {list-style: none;margin: 0;padding: 0;}
+    .footer2016 a:hover{color:#ff4901 !important;text-decoration: underline !important;}
+    .footer2016 .icon, .footer2016 .navlist li a {display: inline-block;}
+    .footer2016 .icon {background-image: url(//g1.dfcfw.com/g4/202005/20200513165332.png);background-repeat: no-repeat;}
+    .footer2016 {margin: 0 auto;clear: both;width: 1200px;line-height: 1.1;_line-height: 1.2;font-family: simsun;font-size: 12px;border-top: 2px solid #2F5895;}
+    .footer2016 .footertg {background-color: #F3F3F3;float: left;width: 100%;padding: 12px 0 0;height: 140px;}
+    .footer2016 .footertg a:link, .footer2016 .footertg a:visited {color: #676767;text-decoration: none;}
+    .footer2016 .qr {float: left;width: 80px;height: 140px;line-height: 150%;padding: 0 20px 0 8px;}
+    .footer2016 .qr .t {font-weight: 700;font-size: 14px;padding-bottom: 10px;}
+    .footer2016 .icon_qrem80, .footer2016 .icon_qrjj80 {background-image: url(//g1.dfcfw.com/g2/201607/20160728133707.png);width: 80px;height: 80px;}
+    .footer2016 .icon_qrem80 {background-position: 0 -330px;}
+    .footer2016 .icon_emwxqr, .footer2016 .icon_jjwxqr {background-image: url(//g1.dfcfw.com/g2/201607/20160728133707.png);width: 86px;height: 106px;}
+    .footer2016 .icon_emwxqr {background-position: -90px 0;}
+    .footer2016 .ftglist ul li.qrli {position: relative;}
+    .footer2016 .ftglist ul li.qrli:hover .icon_qr, .footer2016 .scl-news .name a {display: block;}
+    .footer2016 .icon_emwxqr, .footer2016 .icon_jjwxqr {display: none;position: absolute;left: 0;top: 24px;}
+    .footer2016 .ftglist {float: left;height: 140px;padding: 0 20px;}
+    .footer2016 .ftglistt {font-size: 14px;font-weight: 700;line-height: 130%;padding-bottom: 6px;text-align: left;}
+    .footer2016 .ftglist ul li {padding: 5px 0;color: #676767;text-align: left;}
+    .footer2016 .icon_wb {background-position: -24px 0;width: 14px;height: 12px;}
+    .footer2016 .icon_wx {background-position: 0 0;width: 14px;height: 11px;}
+    .footer2016 .icon_note {background-position: -47px 0;width: 13px;height: 11px;}
+    .footer2016 .ftglist .icon {vertical-align: -1px;margin-right: 2px;}
+    .footer2016 .footertg a:link, .footer2016 .footertg a:visited {color: #676767;text-decoration: none;}
+    .footer2016 .qrl {border-left: 1px solid #ddd;margin-left: 20px;padding-left: 40px;}
+    .footer2016 .icon_qrjj80 {background-position: -90px -330px;}
+    .footer2016 .footercr {clear: both;text-align: center;line-height: 26px;font-size: 12px;width:1200px;margin: 0 auto;height:26px;overflow:hidden;}
+    .footer2016 .icon_icp {background-position: -24px -21px;width: 15px;height: 17px;}
+    .footer2016 .footercr .icon {vertical-align: -3px;margin-right: 2px;}
+    .footer2016 .icon_pol {background-position: 0 -22px;width: 18px;height: 20px;}
+    .footer2016 .footerlinks {background-color: #2F5895;height: 30px;text-align: center;line-height: 30px;}
+    .footer2016 .footerlinks a:link, .footer2016 .footerlinks a:visited, .footer2016 .footerlinks a:hover {color: #fff !important;text-decoration: none;margin: 0 14px;}
+    .footer2016 .footerbz {text-align: center;padding: 12px 0;}
+    .footer2016 .footerbz a {margin: 0 4px;}
+    .footer2016 .footer-police {background-position: 0 -112px;width: 110px;height: 40px;}
+    .footer2016 .footer-zx110 {background-position: -120px -113px;width: 110px;height: 40px;}
+    .footer2016 .footer-shjubao {background-position: 0 -172px;width: 110px;height: 40px;}
+    .footer2016 .footer-cxzx {background-position: -120px -174px;width: 40px;height: 40px;}
+    .footer2016 .footer-shgs {background-position: -180px -174px;width: 47px;height: 40px;}
+    .footer2016 .footer-12377 {background-position: 0 -54px;width: 186px;height: 40px;}
+    .footer2016 .footer-yhjb {background-position: 0 -229px;width: 123px;height: 40px;}
+    .footer2016 .footer-qrlast {width: 90px;}
+    .footer2016 .footer-icon-qihuoqr { background: url(https://emcharts.dfcfw.com/images/qihuoqr.png);width: 80px;height: 80px;display: inline-block;background-repeat: no-repeat;vertical-align: -5px;}
+    .footer2016 .footer-lastqihuo { padding-right: 0px;}
+</style>
+
+<div class="footer2016">
+    <div class="footertg">
+        <div class="qr">
+            <div class="t"><a href="http://acttg.eastmoney.com/pub/web_dfcfsy_dbtg_wzl_01_01_01_1" style="color:#000" target="_blank">东方财富</a></div>
+            <a href="http://acttg.eastmoney.com/pub/web_app_dcsy_2wm_01_01_01_0" target="_blank"><em class="icon icon_qrem80"></em></a><br>扫一扫下载APP
+        </div>
+
+        <div class="ftglist">
+            <div class="ftglistt">东方财富产品</div>
+            <ul>
+                <li><a href="https://acttg.eastmoney.com/pub/pctg_hskh_act_dfcfwmfb_01_01_01_0" target="_blank">东方财富免费版</a></li>
+                <li><a href="https://acttg.eastmoney.com/pub/pctg_hskh_act_dfcfwl2_01_01_01_0" target="_blank">东方财富Level-2</a></li>
+                <li><a href="http://js5.eastmoney.com/tg.aspx?ID=1483" target="_blank">投资大师</a></li>
+                <li><a href="http://js5.eastmoney.com/tg.aspx?ID=2749" target="_blank">Choice金融终端</a></li>
+                <li style="display: none;"><a href="http://www.langke.com/" target="_blank">浪客 - 财经视频</a></li>
+            </ul>
+        </div>
+        <div class="ftglist">
+            <div class="ftglistt">证券交易</div>
+            <ul>
+                <li><a href="https://acttg.eastmoney.com/pub/web_kh_dcsy_dbtkwzl_01_01_01_0" target="_blank">东方财富证券开户</a></li>
+                <li><a href="https://jy.xzsec.com/Trade/Buy" target="_blank">东方财富在线交易</a></li>
+				<li><a href="https://acttg.eastmoney.com/pub/pctg_hskh_act_dfcfzqjy_01_01_01_0" target="_blank">东方财富证券交易</a></li>
+            </ul>
+        </div>
+        <div class="ftglist">
+            <div class="ftglistt">关注东方财富</div>
+            <ul>
+                <li><a href="http://weibo.com/dfcfw" target="_blank"><em class="icon icon_wb"></em>东方财富网微博</a></li>
+                <li class="qrli"><a href="javascript:;" target="_self"><em class="icon icon_wx"></em>东方财富网微信</a><em class="icon icon_qr icon_emwxqr"></em></li>
+                <li><a href="http://corp.eastmoney.com/Lianxi_liuyan.asp" target="_blank"><em class="icon icon_note"></em>意见与建议</a></li>
+            </ul>
+        </div>
+        <div class="qr qrl">
+            <div class="t"><a href="http://acttg.eastmoney.com/pub/web_ttjjsy_dbtg_wzl_01_01_01_1" style="color:#000" target="_blank">天天基金</a></div>
+            <a href="http://js1.eastmoney.com/tg.aspx?ID=4672" target="_blank"><em class="icon icon_qrjj80"></em></a><br>扫一扫下载APP
+        </div>
+        <div class="ftglist">
+            <div class="ftglistt">基金交易</div>
+            <ul>
+                <li><a href="https://trade6.1234567.com.cn/reg/step1" target="_blank">基金开户</a></li>
+                <li><a href="https://trade.1234567.com.cn/login" target="_blank">基金交易</a></li>
+                <li><a href="http://huoqibao.1234567.com.cn/" target="_blank">活期宝</a></li>
+                <li><a href="http://fund.eastmoney.com/trade/default.html" target="_blank">基金产品</a></li>
+                <li><a href="http://fund.eastmoney.com/gslc/" target="_blank">稳健理财</a></li>
+            </ul>
+        </div>
+        <div class="ftglist">
+            <div class="ftglistt">关注天天基金</div>
+            <ul>
+                <li><a href="http://weibo.com/ttfund" target="_blank"><em class="icon icon_wb"></em>天天基金网微博</a></li>
+                <li class="qrli"><a href="javascript:;" target="_self"><em class="icon icon_wx"></em>天天基金网微信<em class="icon icon_qr icon_jjwxqr"></em></a></li>
+            </ul>
+        </div>
+        <div class="qr qrl footer-qrlast">
+            <div class="t"><a href="http://acttg.eastmoney.com/pub/web_dfcfqhsy_dbtg_wzl_01_01_01_1" style="color:#000" target="_blank">东方财富期货</a></div>
+            <a href="http://acttg.eastmoney.com/pub/web_kh_dcsy_dibudfcfqh_01_01_01_1" target="_blank"><em class="footer-icon-qihuoqr"></em></a><br>扫一扫下载APP
+        </div>
+        <div class="ftglist footer-lastqihuo">
+            <div class="ftglistt">期货交易</div>
+            <ul>
+                <li><a href="http://acttg.eastmoney.com/pub/web_kh_dcsy_dibuqhsjkh_01_01_01_1" target="_blank">期货手机开户</a></li>
+                <li><a href="https://acttg.eastmoney.com/pub/web_kh_dcsy_dibudnkh_01_01_01_1" target="_blank">期货电脑开户</a></li>
+                <li><a href="http://acttg.eastmoney.com/pub/web_kh_dcsy_dibuqhgfwz_01_01_01_1" target="_blank">期货官方网站</a></li>
+            </ul>
+        </div>
+    </div>
+        <div class="footercr" style="padding-top:8px;">信息网络传播视听节目许可证：0908328号 经营证券期货业务许可证编号：913101046312860336 违法和不良信息举报:021-34289898 举报邮箱：<a target="_self" href="mailto:jubao@eastmoney.com">jubao@eastmoney.com</a></div>
+        <div class="footercr" style="padding-bottom:8px;">
+            <em class="icon icon_icp"></em>沪ICP证:沪B2-20070217 <a target="_blank" rel="nofollow" href="http://www.beian.miit.gov.cn/" style="color: #3F3F3F;text-decoration:none;">网站备案号:沪ICP备05006054号-11 </a> <a target="_blank" rel="nofollow" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010402000120" style="color: #3F3F3F;text-decoration:none;"><em class="icon icon_pol"></em>沪公网安备 31010402000120号</a> 版权所有:东方财富网 意见与建议:021-54509966/952500
+        </div>
+    <div class="footerlinks">
+			<a href="http://about.eastmoney.com" target="_blank" rel="nofollow">关于我们</a>
+			<a href="http://emhd2.eastmoney.com/market" target="_blank" rel="nofollow">广告服务</a>
+			<a href="http://about.eastmoney.com/home/contact" target="_blank" rel="nofollow">联系我们</a>
+			<a href="http://eastmoney.zhiye.com" target="_blank" rel="nofollow">诚聘英才</a>
+			<a href="http://about.eastmoney.com/home/disclaimer" target="_blank" rel="nofollow">免责声明</a>
+			<a href="http://about.eastmoney.com/home/legal" target="_blank" rel="nofollow">法律声明</a>
+            <a href="http://about.eastmoney.com/home/conceal" target="_blank" rel="nofollow">隐私保护</a>
+			<a href="http://about.eastmoney.com/home/parper" target="_blank" rel="nofollow">征稿启事</a>
+			<a href="http://www.zx110.org/cxs/index.html" target="_blank" rel="nofollow">放心搜</a>
+			<a href="http://about.eastmoney.com/home/links" target="_blank" rel="nofollow">友情链接</a>
+    </div>
+    <div class="footerbz">
+        <img src="//g1.dfcfw.com/g3/201905/20190531140719.png" title="亲爱的市民朋友，上海警方反诈劝阻电
+话“962110”系专门针对避免您财产被
+骗受损而设，请您一旦收到来电，立即
+接听。" style="vertical-align: bottom;">
+        <a rel="nofollow" href="http://www.cyberpolice.cn/" class="icon footer-police" title="上海网警网络110" target="_blank"></a>
+        <a rel="nofollow" href="http://www.zx110.org/" class="icon footer-zx110" title="网络社会征信网" target="_blank"></a>
+        <a rel="nofollow" href="http://www.shjbzx.cn/" class="icon footer-shjubao" title="上海违法和违规信息举报中心" target="_blank"></a>
+        <a rel="nofollow" href="http://www.12377.cn" class="icon footer-12377" title="中国互联网违法和不良信息举报中心" target="_blank"></a>
+	</div>
+</div>
+
+<script>
+    if(document.all && !window.XMLHttpRequest){
+        $(".qrli").hover(function(){
+            $(".icon_qr",this).show();
+        },function(){
+            $(".icon_qr",this).hide();
+        });
+    }
+</script>
+
+
+<script src="//emres.dfcfw.com/public/js/topnav1200.js"></script><div class="top-nav-wrap"><div class="topnavmain" id="fixMenuBar">
+  <div class="tw-nav">
+    <a href="http://www.eastmoney.com/" target="_blank" class="sitemap">网站首页</a>
+    <a href="javascript:;" id="addfavlink" target="_self" class="sitemap">加收藏</a>
+    <div class="down-menu wz5">
+      <a target="_blank" href="http://js5.eastmoney.com/tg.aspx?ID=431" class="category red">移动客户端</a>
+      <ul><li><a target="_blank" href="http://acttg.eastmoney.com/pub/web_app_dcsy_top1_01_01_01_1">东方财富iPhone版</a></li><li><a target="_blank" href="http://acttg.eastmoney.com/pub/web_app_dcsy_top1_01_02_01_1">东方财富Android版</a></li><li><a target="_blank" href="http://acttg.eastmoney.com/pub/web_app_dcsy_top1_01_03_01_1">东方财富WinPhone版</a></li><li><a target="_blank" href="http://acttg.eastmoney.com/pub/web_app_dcsy_top1_02_02_01_1">东方财富Pad版</a></li><li><a target="_blank" href="http://js1.eastmoney.com/tg.aspx?ID=3120">天天基金iPhone版</a></li><li><a target="_blank" href="http://js1.eastmoney.com/tg.aspx?ID=3121">天天基金Android版</a></li><li><a target="_blank" href="https://acttg.eastmoney.com/pub/pe_px_rk_dcweb_01_01_01_0">优优私募iPhone版</a></li><li><a target="_blank" href="https://acttg.eastmoney.com/pub/pe_px_rk_dcweb_01_01_02_0">优优私募Android版</a></li><li><a target="_blank" href="https://zqhd.eastmoney.com/cp/20140731_gb.html">股吧iPhone版</a></li><li><a target="_blank" href="https://zqhd.eastmoney.com/cp/20140731_gb.html">股吧Android版</a></li><li><a target="_blank" href="https://zqhd.eastmoney.com/cp/20170214cj/index.html">东方财富小程序</a></li><li><a target="_blank" href="https://www.eastmoneyloans.com/?ADTAG=DC.1st.cp">东方贷手机app</a></li></ul>
+    </div>
+    <div class="down-menu wz4">
+      <a target="_blank" href="https://acttg.eastmoney.com/pub/pctg_hskh_act_wysfpcb_01_01_01_0" class="category">东方财富</a>
+      
+      <ul>
+        <li class="tit blue"><span>免费版</span></li>
+        <li><a target="_blank" href="https://acttg.eastmoney.com/pub/pctg_hskh_act_wysfpcb_01_01_01_0">PC版</a></li><li><a target="_blank" href="https://acttg.eastmoney.com/pub/pctg_hskh_act_wysfmacb_01_01_01_0">Mac版</a></li><li><a target="_blank" href="http://acttg.eastmoney.com/pub/web_app_dcsy_top1_02_02_01_1">ipad版</a></li>
+        <li class="tit red"><span>收费增值版</span></li>
+        <li><a target="_blank" href="https://acttg.eastmoney.com/pub/pctg_hskh_act_wysfjsb_01_01_01_0">Level-2极速版</a></li><li><a target="_blank" href="https://acttg.eastmoney.com/pub/pctg_hskh_act_wysfggl2_01_01_01_0">港股Level-2</a></li><li><a target="_blank" href="https://acttg.eastmoney.com/pub/pctg_hskh_act_wysfzyb_01_01_01_0">专业版</a></li><li><a target="_blank" href="https://www.dfcfw.com/?pageProType=LEVEL2JC">Level-2决策版</a></li><li><span class="red"><a target="_blank" href="https://www.dfcfw.com/?pageProType=TZDS">投资大师</a></span></li><li><a target="_blank" href="https://www.dfcfw.com/?pageProType=XFB">先锋版</a></li><li><a target="_blank" href="https://www.dfcfw.com/?pageProType=LHB">领航版</a></li><li><a target="_blank" href="https://www.dfcfw.com/cpmm/">体验版</a></li><li><a target="_blank" href="https://premium.eastmoney.com/paidvideoWeb/">金牌课程</a></li>
+      </ul>
+      
+    </div>
+    <div class="down-menu">
+      <a target="_blank" href="http://fund.eastmoney.com/" class="category">天天基金网</a>
+      <ul><li><a target="_blank" href="https://trade.1234567.com.cn/login">基金交易</a></li><li><a target="_blank" href="http://huoqibao.1234567.com.cn/">活期宝</a></li><li><a target="_blank" href="http://favor.fund.eastmoney.com/">自选基金</a></li><li><a target="_blank" href="http://fund.eastmoney.com/fund.html">基金净值</a></li><li><a target="_blank" href="http://fund.eastmoney.com/fundguzhi.html">基金估值</a></li><li><a target="_blank" href="http://fund.eastmoney.com/data/fundranking.html">基金排行</a></li><li><a target="_blank" href="http://fund.eastmoney.com/data/fundrating.html">基金评级</a></li><li><a target="_blank" href="http://fund.eastmoney.com/dingtou/">基金定投</a></li><li><a target="_blank" href="http://fund.eastmoney.com/tradeindex.html">基金超市</a></li><li><a target="_blank" href="http://fund.eastmoney.com/daogou/">基金导购</a></li></ul>
+    </div>
+    <div class="down-menu wz6">
+      <a target="_blank" href="http://acttg.eastmoney.com/pub/web_kh_dcsy_jycdl_01_01_01_1" class="category">东方财富证券</a>
+      <ul><li><a target="_blank" href="https://jy.xzsec.com/Trade/Buy">证券交易</a></li><li><a target="_blank" href="https://acttg.eastmoney.com/pub/web_kh_cgds_khewmsms_01_01_01_0">万2.5佣金开户</a></li><li><a target="_blank" href="http://acttg.eastmoney.com/pub/web_kh_dcsy_jydnkh_01_01_01_0">电脑开户</a></li><li><a target="_blank" href="http://acttg.eastmoney.com/pub/web_kh_dcsy_jysjkh_01_01_01_0">手机开户</a></li><li><a target="_blank" href="https://kh.eastmoney.com/q/process">开户进度查询</a></li><li><a target="_blank" href="https://kh.eastmoney.com/q/result">查询开户结果</a></li><li><a target="_blank" href="https://kh.eastmoney.com/q/cuacctid">查询资金账号</a></li><li><a target="_blank" href="https://acttg.eastmoney.com/pub/pctg_hskh_act_wysfzqjy_01_01_01_0">证券交易客户端</a></li><li><a target="_blank" href="https://store.xzsec.com/">营业部网点</a></li><li><a target="_blank" href="https://acttg.eastmoney.com/pub/pe_px_rk_dcweb_01_01_03_0">优优私募</a></li></ul>
+    </div>
+    <div class="down-menu wz6">
+      <a href="http://www.eastmoneyfutures.com/" class="category">东方财富期货</a>
+      <ul><li><a target="_blank" href="https://acttg.eastmoney.com/pub/web_kh_dcsy_topqhdnkh_01_01_01_1">电脑开户</a></li><li><a target="_blank" href="http://acttg.eastmoney.com/pub/web_kh_dcsy_topqhsjkh_01_01_01_1">手机开户</a></li><li><a target="_blank" href="https://acttg.eastmoney.com/pub/web_kh_dcsy_topqhyykh_01_01_01_0">预约开户</a></li><li><a target="_blank" href="https://acttg.eastmoney.com/pub/web_kh_dcsy_topqhkhbz_01_01_01_0">开户帮助</a></li><li><a target="_blank" href="https://acttg.eastmoney.com/pub/web_pc_dcsy_topqhpc_01_01_01_0">PC版</a></li><li><a target="_blank" href="https://acttg.eastmoney.com/pub/web_app_dcsy_topqhandriod_01_01_01_0">Android版</a></li><li><a target="_blank" href="https://acttg.eastmoney.com/pub/web_app_dcsy_topqhapple_01_01_01_0">iPhone版</a></li></ul>
+  </div>
+    <div class="down-menu wz5">
+      <a target="_blank" href="http://js5.eastmoney.com/tg.aspx?ID=789" class="category">Choice数据</a>
+      <ul><li><a target="_blank" href="http://js5.eastmoney.com/tg.aspx?ID=1928">Choice金融终端</a></li><li><a target="_blank" href="http://js5.eastmoney.com/tg.aspx?ID=1929">Choice数据服务</a></li><li><a target="_blank" href="http://quantapi.eastmoney.com/?adid=6667">Choice数据API</a></li><li><a target="_blank" href="http://choice.eastmoney.com/Product/ChoiceApp?adid=106">Choice数据APP</a></li></ul>
+    </div>
+    <div class="down-menu wz2">
+      <a target="_blank" href="http://gb.eastmoney.com/" class="category">股吧</a>
+      <ul><li><a target="_blank" href="https://zqhd.eastmoney.com/cp/cp20161013/index.html">手机版下载</a></li><li><a target="_blank" href="https://i.eastmoney.com/">我的股吧</a></li><li><a target="_blank" href="http://guba.eastmoney.com/remenba.aspx?type=2">热门主题</a></li><li><a target="_blank" href="http://guba.eastmoney.com/remenba.aspx?type=1">热门个股</a></li><li><a target="_blank" href="http://gubatopic.eastmoney.com/">热门话题</a></li><li><a target="_blank" href="http://guba.eastmoney.com/ft_list.aspx">股吧访谈</a></li><li><a target="_blank" href="http://guba.eastmoney.com/qa/qa_list.aspx">问董秘</a></li></ul>
+    </div>
+  </div>
+  <div class="tw-login">
+    <div class="down-menu wz2" id="loginMenu"><a href="https://passport2.eastmoney.com/pub/login?backurl=http%3A//so.eastmoney.com/news/s%3Fkeyword%3D%25E6%25B5%25AA%25E8%258E%258E%25E8%2582%25A1%25E4%25BB%25BD" target="_blank" class="category">登录</a></div>
+    <div class="down-menu wz4">
+      <a target="_blank" href="http://i.eastmoney.com" class="category">我的菜单</a>
+      <ul><li><a target="_blank" href="http://quote.eastmoney.com/zixuan/?from=home">我的自选股</a></li><li><a target="_blank" href="http://favor.fund.eastmoney.com/">我的基金</a></li><li><a target="_blank" href="http://i.eastmoney.com/">我的股吧</a></li><li><a target="_blank" href="http://blog.eastmoney.com/">我的博客</a></li><li><a target="_blank" href="http://group.eastmoney.com/mygroup.html">我的投资组合</a></li></ul>
+    </div>
+    <div class="down-menu wz4">
+      <a target="_blank" href="https://jy.xzsec.com/Trade/Buy" class="category">证券交易</a>
+      <ul><li><a target="_blank" href="https://jy.xzsec.com/Trade/Buy">在线交易</a></li><li><a target="_blank" href="http://acttg.eastmoney.com/pub/web_kh_dcsy_jyagkh_01_01_01_0">万2.5佣金开户</a></li><li><a target="_blank" href="http://acttg.eastmoney.com/pub/web_kh_dcsy_jydnkh_01_01_01_0">电脑开户</a></li><li><a target="_blank" href="http://acttg.eastmoney.com/pub/web_kh_dcsy_jysjkh_01_01_01_0">手机开户</a></li><li><a target="_blank" href="https://jy.xzsec.com/Search/Position">资金持仓</a></li><li><a target="_blank" href="https://jy.xzsec.com/Search/Orders">交易查询</a></li><li><a target="_blank" href="https://jy.xzsec.com/MarginSearch/MyAssets">融资融券</a></li><li><a target="_blank" href="https://jy.xzsec.com/Trade/NewBuy">新股申购</a></li><li><a target="_blank" href="https://jy.xzsec.com/SchroederFund/Index">天天宝</a></li><li><a target="_blank" href="https://jy.xzsec.com/HKTrade/HKBuy">港股通</a></li><li><a target="_blank" href="https://acttg.eastmoney.com/pub/pctg_hskh_act_wysfvipznjy_01_01_01_0">VIP智能交易</a></li><li><a target="_blank" href="https://acttg.eastmoney.com/pub/pctg_hskh_act_wysfjykhd_01_01_01_0">交易客户端</a></li></ul>
+    </div>
+    <div class="down-menu wz4">
+      <a target="_blank" href="https://trade.1234567.com.cn/Login" class="category">基金交易</a>
+      <ul><li><a target="_blank" href="https://trade.1234567.com.cn/MyAssets/Default">我的资产</a></li><li><a target="_blank" href="https://trade.1234567.com.cn/xjb/index">活期宝</a></li><li><a target="_blank" href="https://trade.1234567.com.cn/dqb/default">定期宝</a></li><li><a target="_blank" href="https://trade.1234567.com.cn/zsb/default">指数宝</a></li><li><a target="_blank" href="https://trade.1234567.com.cn/FundtradePage/default2">买基金</a></li><li><a target="_blank" href="https://trade.1234567.com.cn/login?direct_url=/FundtradePage/redemption">卖基金</a></li><li><a target="_blank" href="https://trade.1234567.com.cn/Investment/default">基金定投</a></li><li><a target="_blank" href="https://trade.1234567.com.cn/reg/">免费开户</a></li><li><a target="_blank" href="http://fundact.eastmoney.com/app/">手机客户端</a></li></ul>
+    </div>
+  </div></div></div>
+<script src="//emcharts.dfcfw.com/libs/jquery.1.12.4.js"></script>
+<script src="//emcharts.dfcfw.com/libs/lodash.3.10.1.js"></script>
+<script src="//emcharts.dfcfw.com/suggest/stocksuggest2017.min.js"></script>
+<script src="/newstatic/js/page/index.js"></script>
+<script>
+var search_url, searchApi_url;
+  try {
+      search_url = "//searchapi.eastmoney.com/bussiness/";
+      searchApi_url = "//searchapi.eastmoney.com/";
+  } catch (e) {
+
+  }
+  var url1 = "//recommend.eastmoney.com/soapi/api/articlesearch/search?count={0}&Userid={1}&id={1}";
+  if (search_url.indexOf("eastmoney") == -1) {
+      search_url = "//searchapi.eastmoney.com/api/dropdown/get?input={0}&count={1}";
+  }
+</script>
+<script src="/newstatic/js/emcharttime.js"></script>
+<script>
+    var search = spage.search;
+
+    new search({
+        type: "zixun"
+    });
+</script>
+<script src="//emcharts.dfcfw.com/newsts/newsts.min.js"></script>
+<script src="//emcharts.dfcfw.com/usercollect/usercollect.min.js"></script>
+
+<script>
+    var emtj_isUpload = 1;
+    var emtj_pageId = 118000300905;
+    var emtj_logSet = "1111111111";
+    var emtj_sampleRate = 1;
+</script>
+
+<script src="//bdstatics.eastmoney.com/web/prd/jump_tracker.js"></script><script src="http://bdstatics.eastmoney.com/web/prd/jump_hotarea.js" type="text/javascript" charset="UTF-8"></script>
+<!--[if lte IE 11 ]>
+<script src="//emres.eastmoney.com/ie6/ie6.js"></script>
+<![endif]--><script src="http://bdstatics.eastmoney.com/web/prd/bigdata_tracker_20200612.js" type="text/javascript" charset="UTF-8"></script><img src="//huaxiang.eastmoney.com/CommonRecommend.png?json=%7B%22lastModifyTime%22%3A%22_lastModifyTime_%22%2C%22type%22%3A%22view%22%2C%22uid%22%3A%22%22%2C%22bid%22%3A%2269279f1b1a6f944f71192bc07aa0bc78%22%2C%22referer%22%3A%22%22%2C%22pagetype%22%3A%22%22%2C%22pageitem%22%3A%22%22%2C%22browser_height%22%3A579%2C%22url%22%3A%22http%3A%2F%2Fso.eastmoney.com%2Fnews%2Fs%3Fkeyword%3D%25E6%25B5%25AA%25E8%258E%258E%25E8%2582%25A1%25E4%25BB%25BD%22%2C%22loadtime%22%3A1013%2C%22domainId%22%3A%22so.eastmoney.com%22%2C%22st_pvi%22%3A%22%22%2C%22emtj_pageId%22%3A118000300905%7D" style="display: none;"></body></html>1.XD浪莎股6月15日快速反弹 - 2020-06-15http://stock.eastmoney.com/a/202006151521776761.html2.浪莎股份6月10日盘中跌幅达5% - 2020-06-10http://stock.eastmoney.com/a/202006101516221779.html3.浪莎股份6月9日盘中跌幅达5% - 2020-06-09http://stock.eastmoney.com/a/202006091514994818.html4.浪莎股份6月9日快速回调 - 2020-06-09http://stock.eastmoney.com/a/202006091514613723.html5.浪莎股份6月9日快速反弹 - 2020-06-09http://stock.eastmoney.com/a/202006091514579812.html6.浪莎股份6月8日快速反弹 - 2020-06-08http://stock.eastmoney.com/a/202006081513081048.html7.浪莎股份6月8日开盘跌幅达5% - 2020-06-08http://stock.eastmoney.com/a/202006081512959042.html8.浪莎股份6月5日快速回调 - 2020-06-05http://stock.eastmoney.com/a/202006051511070176.html9.浪莎股份6月5日打开涨停 - 2020-06-05http://stock.eastmoney.com/a/202006051510954210.html10.浪莎股份6月5日开盘涨停 - 2020-06-05http://stock.eastmoney.com/a/202006051510953461.html
