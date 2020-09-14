@@ -1,0 +1,74 @@
+A-B : C E 
+A-C : D F 
+A-D : E F 
+A-E : B C D 
+A-F : B C D E O 
+A-G : C D E F 
+A-H : C D E O 
+A-I : O 
+A-J : B O 
+A-K : C D 
+A-L : D E F 
+A-M : E F 
+B-C : A 
+B-D : A E 
+B-E : C 
+B-F : A C E 
+B-G : A C E 
+B-H : A C E 
+B-I : A 
+B-K : A C 
+B-L : E 
+B-M : E 
+B-O : A K 
+C-D : A F 
+C-E : D 
+C-F : A D 
+C-G : A D F 
+C-H : A D 
+C-I : A 
+C-K : A D 
+C-L : D F 
+C-M : F 
+C-O : A I 
+D-E : L 
+D-F : A E 
+D-G : A E F 
+D-H : A E 
+D-I : A 
+D-K : A 
+D-L : E F 
+D-M : E F 
+D-O : A 
+E-F : B C D M 
+E-G : C D 
+E-H : C D 
+E-J : B 
+E-K : C D 
+E-L : D 
+F-G : A C D E 
+F-H : A C D E O 
+F-I : A O 
+F-J : B O 
+F-K : A C D 
+F-L : D E 
+F-M : E 
+F-O : A 
+G-H : A C D E 
+G-I : A 
+G-K : A C D 
+G-L : D E F 
+G-M : E F 
+G-O : A 
+H-I : A O 
+H-J : O 
+H-K : A C D 
+H-L : D E 
+H-M : E 
+H-O : A 
+I-J : O 
+I-K : A 
+I-O : A 
+K-L : D 
+K-O : A 
+L-M : E F 
